@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>FIREWORKS NOTAM</name>
+    <NetworkLink>
+      <name>2026年</name>
+      <open>0</open>
+      <Link>
+        <href>kmz/fireworks_2026.kmz</href>
+        <refreshMode>onInterval</refreshMode>
+        <refreshInterval>3600</refreshInterval>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>

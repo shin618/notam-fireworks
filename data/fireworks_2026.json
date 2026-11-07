@@ -1,0 +1,2378 @@
+{
+ "A1596/26": {
+  "areas": [
+   {
+    "lat": 35.77722222222222,
+    "lon": 140.27083333333334,
+    "radius_m": 140.0
+   },
+   {
+    "lat": 35.78111111111111,
+    "lon": 140.26972222222224,
+    "radius_m": 140.0
+   }
+  ],
+  "end_utc": "2026-11-07T11:00:00+00:00",
+  "first_seen": "2026-10-29",
+  "id": "A1596/26",
+  "location": "RJAA",
+  "place": "NARITA-SHI IN CHIBA",
+  "schedule": "07 0300/0310 0700/0710 0800/0810 0900/1100",
+  "start_utc": "2026-11-07T03:00:00+00:00",
+  "text": "FROM 2026/11/07 03:00 To 2026/11/07 11:00\n280206 RJAAYNYX\n(A1596/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/015/3547N14016E001\nA)RJAA B)2611070300 C)2611071100\nD)07 0300/0310 0700/0710 0800/0810 0900/1100\nE)FIREWORKS:\n(1)PLACE: RADIUS 140M CENTER 354638N1401615E\n(2)PLACE: RADIUS 140M CENTER 354652N1401611E\n(NARITA-SHI IN CHIBA)\nRMK: MISSED APPROACH TEMPO CHANGE,\nSEE NOTAM RJAAYNYX A1595/26\nF)GND G)1444FT AGL)",
+  "upper_ft": 1444,
+  "upper_ref": "AGL"
+ },
+ "A1617/26": {
+  "areas": [
+   {
+    "lat": 35.85527777777778,
+    "lon": 140.2238888888889,
+    "radius_m": 120.0
+   }
+  ],
+  "end_utc": "2026-11-28T09:00:00+00:00",
+  "first_seen": "2026-11-03",
+  "id": "A1617/26",
+  "location": "RJAA",
+  "place": "INBA-GUN IN CHIBA",
+  "schedule": "",
+  "start_utc": "2026-11-28T08:00:00+00:00",
+  "text": "FROM 2026/11/28 08:00 To 2026/11/28 09:00\n300127 RJAAYNYX\n(A1617/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/014/3551N14013E001\nA)RJAA B)2611280800 C)2611280900\nE)FIREWORKS:\nPLACE: RADIUS 120M CENTER 355119N1401326E\n(INBA-GUN IN CHIBA)\nF)GND G)1379FT AGL)",
+  "upper_ft": 1379,
+  "upper_ref": "AGL"
+ },
+ "B2704/26": {
+  "areas": [
+   {
+    "lat": 34.44222222222222,
+    "lon": 135.33416666666668,
+    "radius_m": 65.0
+   }
+  ],
+  "end_utc": "2026-11-01T09:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "B2704/26",
+  "location": "RJBB",
+  "place": "KAIZUKA-SHI IN OSAKA",
+  "schedule": "",
+  "start_utc": "2026-11-01T08:30:00+00:00",
+  "text": "(B2704/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/3427N13520E001\nA)RJBB B)2611010830 C)2611010930\nE)FIREWORKS:\nPLACE: RADIUS 65M CENTER 342632N1352003E\n(KAIZUKA-SHI IN OSAKA)\nF)GND G)706FT AGL)",
+  "upper_ft": 706,
+  "upper_ref": "AGL"
+ },
+ "B2771/26": {
+  "areas": [
+   {
+    "lat": 34.40833333333333,
+    "lon": 135.28944444444446,
+    "radius_m": 300.0
+   }
+  ],
+  "end_utc": "2026-10-31T11:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "B2771/26",
+  "location": "RJBB",
+  "place": "IZUMISANO-SHI IN OSAKA",
+  "schedule": "",
+  "start_utc": "2026-10-31T09:00:00+00:00",
+  "text": "(B2771/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/017/3425N13517E001\nA)RJBB B)2610310900 C)2610311100\nE)FIREWORKS:\nPLACE: RADIUS 300M CENTER 342430N1351722E\n(IZUMISANO-SHI IN OSAKA)\nF)GND G)1608FT AGL)",
+  "upper_ft": 1608,
+  "upper_ref": "AGL"
+ },
+ "B2836/26": {
+  "areas": [
+   {
+    "lat": 34.44222222222222,
+    "lon": 135.33444444444444,
+    "radius_m": 65.0
+   }
+  ],
+  "end_utc": "2026-10-25T09:05:00+00:00",
+  "first_seen": "2026-10-24",
+  "id": "B2836/26",
+  "location": "RJBB",
+  "place": "KAIZUKA-SHI IN OSAKA",
+  "schedule": "",
+  "start_utc": "2026-10-25T09:00:00+00:00",
+  "text": "(B2836/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/3427N13520E001\nA)RJBB B)2610250900 C)2610250905\nE)FIREWORKS:\nPLACE: RADIUS 65M CENTER 342632N1352004E\n(KAIZUKA-SHI IN OSAKA)\nF)GND G)706FT AGL)",
+  "upper_ft": 706,
+  "upper_ref": "AGL"
+ },
+ "F1093/26": {
+  "areas": [
+   {
+    "lat": 33.599444444444444,
+    "lon": 130.22972222222222,
+    "radius_m": 65.0
+   }
+  ],
+  "end_utc": "2026-11-01T10:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "F1093/26",
+  "location": "RJFF",
+  "place": "FUKUOKA-SHI",
+  "schedule": "",
+  "start_utc": "2026-11-01T09:45:00+00:00",
+  "text": "(F1093/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/3336N13014E001\nA)RJFF B)2611010945 C)2611011000\nE)FIREWORKS:\nPLACE: RADIUS 65M CENTER 333558N1301347E\n(FUKUOKA-SHI)\nF)GND G)739FT AGL)",
+  "upper_ft": 739,
+  "upper_ref": "AGL"
+ },
+ "F1094/26": {
+  "areas": [
+   {
+    "lat": 33.57611111111112,
+    "lon": 130.48694444444442,
+    "radius_m": 50.0
+   }
+  ],
+  "end_utc": "2026-11-08T10:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "F1094/26",
+  "location": "RJFF",
+  "place": "KASUYA-GUN IN FUKUOKA",
+  "schedule": "",
+  "start_utc": "2026-11-08T09:30:00+00:00",
+  "text": "FROM 2026/11/08 09:30 To 2026/11/08 10:30\n080110 RJAAYNYX\n(F1094/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/006/3335N13029E001\nA)RJFF B)2611080930 C)2611081030\nE)FIREWORKS:\nPLACE: RADIUS 50M CENTER 333434N1302913E\n(KASUYA-GUN IN FUKUOKA)\nF)GND G)558FT AGL)",
+  "upper_ft": 558,
+  "upper_ref": "AGL"
+ },
+ "F1118/26": {
+  "areas": [
+   {
+    "lat": 33.55694444444444,
+    "lon": 130.52694444444447,
+    "radius_m": 25.0
+   }
+  ],
+  "end_utc": "2026-11-14T10:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "F1118/26",
+  "location": "RJFF",
+  "place": "KASUYA-GUN IN FUKUOKA",
+  "schedule": "",
+  "start_utc": "2026-11-14T09:00:00+00:00",
+  "text": "FROM 2026/11/14 09:00 To 2026/11/14 10:00\n130749 RJAAYNYX\n(F1118/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/004/3333N13032E001\nA)RJFF B)2611140900 C)2611141000\nE)FIREWORKS:\nPLACE: RADIUS 25M CENTER 333325N1303137E\n(KASUYA-GUN IN FUKUOKA)\nF)GND G)345FT AGL)",
+  "upper_ft": 345,
+  "upper_ref": "AGL"
+ },
+ "F1207/26": {
+  "areas": [
+   {
+    "lat": 33.53861111111111,
+    "lon": 130.5013888888889,
+    "radius_m": 100.0
+   }
+  ],
+  "end_utc": "2026-11-08T12:00:00+00:00",
+  "first_seen": "2026-11-07",
+  "id": "F1207/26",
+  "location": "RJFF",
+  "place": "ONOJO-SHI IN FUKUOKA",
+  "schedule": "",
+  "start_utc": "2026-11-08T09:00:00+00:00",
+  "text": "FROM 2026/11/08 09:00 To 2026/11/08 12:00\n050715 RJAAYNYX\n(F1207/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/005/3332N13030E001\nA)RJFF B)2611080900 C)2611081200\nE)FIREWORKS:\nPLACE: RADIUS 100M CENTER 333219N1303005E\n(ONOJO-SHI IN FUKUOKA)\nF)GND G)493FT AGL)",
+  "upper_ft": 493,
+  "upper_ref": "AGL"
+ },
+ "F1212/26": {
+  "areas": [
+   {
+    "lat": 33.67333333333333,
+    "lon": 130.41055555555556,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-21T09:45:00+00:00",
+  "first_seen": "2026-11-07",
+  "id": "F1212/26",
+  "location": "RJFF",
+  "place": "FUKUOKA-SHI",
+  "schedule": "",
+  "start_utc": "2026-11-21T08:45:00+00:00",
+  "text": "FROM 2026/11/21 08:45 To 2026/11/21 09:45\n060210 RJAAYNYX\n(F1212/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/007/3340N13025E001\nA)RJFF B)2611210845 C)2611210945\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 334024N1302438E\n(FUKUOKA-SHI)\nF)GND G)690FT AGL)",
+  "upper_ft": 690,
+  "upper_ref": "AGL"
+ },
+ "G2554/26": {
+  "areas": [
+   {
+    "lat": 34.88638888888889,
+    "lon": 136.82083333333333,
+    "radius_m": 40.0
+   }
+  ],
+  "end_utc": "2026-11-07T11:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "G2554/26",
+  "location": "RJGG",
+  "place": "TOKONAME-SHI IN AICHI",
+  "schedule": "",
+  "start_utc": "2026-11-07T08:30:00+00:00",
+  "text": "FROM 2026/11/07 08:30 To 2026/11/07 11:00\n210241 RJAAYNYX\n(G2554/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/005/3453N13649E001\nA)RJGG B)2611070830 C)2611071100\nE)FIREWORKS:\nPLACE: RADIUS 40M CENTER 345311N1364915E\n(TOKONAME-SHI IN AICHI)\nF)GND G)460FT AGL)",
+  "upper_ft": 460,
+  "upper_ref": "AGL"
+ },
+ "H3801/26": {
+  "areas": [
+   {
+    "lat": 26.15111111111111,
+    "lon": 127.69194444444445,
+    "radius_m": 30.0
+   }
+  ],
+  "end_utc": "2026-10-23T12:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "H3801/26",
+  "location": "ROAH",
+  "place": "ITOMAN-SHI IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-10-23T09:00:00+00:00",
+  "text": "(H3801/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/005/2609N12742E001\nA)ROAH B)2610230900 C)2610231200\nE)FIREWORKS:\nPLACE: RADIUS 30M CENTER 260904N1274131E\n(ITOMAN-SHI IN OKINAWA)\nF)GND G)493FT AGL)",
+  "upper_ft": 493,
+  "upper_ref": "AGL"
+ },
+ "H3802/26": {
+  "areas": [
+   {
+    "lat": 26.19,
+    "lon": 127.7238888888889,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-01T13:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "H3802/26",
+  "location": "ROAH",
+  "place": "SHIMAJIRI-GUN IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-11-01T11:00:00+00:00",
+  "text": "(H3802/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/2611N12743E001\nA)ROAH B)2611011100 C)2611011300\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 261124N1274326E\n(SHIMAJIRI-GUN IN OKINAWA)\nF)GND G)706FT AGL)",
+  "upper_ft": 706,
+  "upper_ref": "AGL"
+ },
+ "H3963/26": {
+  "areas": [
+   {
+    "lat": 26.15111111111111,
+    "lon": 127.69194444444445,
+    "radius_m": 30.0
+   }
+  ],
+  "end_utc": "2026-10-30T12:00:00+00:00",
+  "first_seen": "2026-10-24",
+  "id": "H3963/26",
+  "location": "ROAH",
+  "place": "ITOMAN-SHI IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-10-30T09:00:00+00:00",
+  "text": "(H3963/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/005/2609N12742E001\nA)ROAH B)2610300900 C)2610301200\nE)FIREWORKS:\nPLACE: RADIUS 30M CENTER 260904N1274131E\n(ITOMAN-SHI IN OKINAWA)\nF)GND G)493FT AGL)",
+  "upper_ft": 493,
+  "upper_ref": "AGL"
+ },
+ "I4747/26": {
+  "areas": [
+   {
+    "lat": 36.08444444444444,
+    "lon": 140.1786111111111,
+    "radius_m": 140.0
+   },
+   {
+    "lat": 36.08083333333334,
+    "lon": 140.1808333333333,
+    "radius_m": 140.0
+   }
+  ],
+  "end_utc": "2026-11-06T07:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I4747/26",
+  "location": "RJAK",
+  "place": "TSUCHIURA-SHI IN IBARAKI",
+  "schedule": "",
+  "start_utc": "2026-11-06T06:00:00+00:00",
+  "text": "(I4747/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/015/3605N14011E001\nA)RJAK B)2611060600 C)2611060700\nE)FIREWORKS:(1)\nPLACE: RADIUS 140M CENTER 360504N1401043E(2)\nPLACE: RADIUS 140M CENTER 360451N1401051E\n(TSUCHIURA-SHI IN IBARAKI)\nF)GND G)1500FT AGL)",
+  "upper_ft": 1500,
+  "upper_ref": "AGL"
+ },
+ "I4748/26": {
+  "areas": [
+   {
+    "lat": 36.08444444444444,
+    "lon": 140.1786111111111,
+    "radius_m": 140.0
+   },
+   {
+    "lat": 36.08083333333334,
+    "lon": 140.1808333333333,
+    "radius_m": 140.0
+   }
+  ],
+  "end_utc": "2026-11-07T12:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I4748/26",
+  "location": "RJAK",
+  "place": "TSUCHIURA-SHI IN IBARAKI",
+  "schedule": "",
+  "start_utc": "2026-11-06T21:00:00+00:00",
+  "text": "FROM 2026/11/06 21:00 To 2026/11/07 12:00\n260311 RJAAYNYX\n(I4748/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/015/3605N14011E001\nA)RJAK B)2611062100 C)2611071200\nE)FIREWORKS:\n(1)PLACE: RADIUS 140M CENTER 360504N1401043E\n(2)PLACE: RADIUS 140M CENTER 360451N1401051E\n(TSUCHIURA-SHI  IN IBARAKI)\nF)GND G)1500FT AGL)",
+  "upper_ft": 1500,
+  "upper_ref": "AGL"
+ },
+ "I4955/26": {
+  "areas": [
+   {
+    "lat": 35.37222222222222,
+    "lon": 136.8763888888889,
+    "radius_m": 65.0
+   }
+  ],
+  "end_utc": "2026-10-24T11:15:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I4955/26",
+  "location": "RJNG",
+  "place": "KONAN-SHI IN AICHI",
+  "schedule": "",
+  "start_utc": "2026-10-24T09:45:00+00:00",
+  "text": "(I4955/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/3522N13653E001\nA)RJNG B)2610240945 C)2610241115\nE)FIREWORKS:\nPLACE: RADIUS 65M CENTER 352220N1365235E\n(KONAN-SHI IN AICHI)\nF)GND G)739FT AGL)",
+  "upper_ft": 739,
+  "upper_ref": "AGL"
+ },
+ "I5067/26": {
+  "areas": [
+   {
+    "lat": 26.31861111111111,
+    "lon": 127.75055555555555,
+    "radius_m": 80.0
+   }
+  ],
+  "end_utc": "2026-10-31T11:05:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I5067/26",
+  "location": "RODN",
+  "place": "NAKAGAMI-GUN IN OKINAWA",
+  "schedule": "02-03 09-10 16-17 23-24 30-31 1100/1105",
+  "start_utc": "2026-10-02T11:00:00+00:00",
+  "text": "(I5067/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/009/2619N12745E001\nA)RODN B)2610021100 C)2610311105\nD)02-03 09-10 16-17 23-24 30-31 1100/1105\nE)FIREWORKS:\nPLACE: RADIUS 80M CENTER 261907N1274502E\n(NAKAGAMI-GUN IN OKINAWA)\nF)GND G)886FT AGL)",
+  "upper_ft": 886,
+  "upper_ref": "AGL"
+ },
+ "I5156/26": {
+  "areas": [
+   {
+    "lat": 34.99472222222222,
+    "lon": 139.85555555555555,
+    "radius_m": 75.0
+   }
+  ],
+  "end_utc": "2026-11-07T09:05:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I5156/26",
+  "location": "RJTE",
+  "place": "TATEYAMA-SHI IN CHIBA",
+  "schedule": "07 0500/0510 0800/0825 0900/0905",
+  "start_utc": "2026-11-07T05:00:00+00:00",
+  "text": "FROM 2026/11/07 05:00 To 2026/11/07 09:05\n150610 RJAAYNYX\n(I5156/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/010/3500N13951E001\nA)RJTE B)2611070500 C)2611070905\nD)07 0500/0510 0800/0825 0900/0905\nE)FIREWORKS:\nPLACE: RADIUS 75M CENTER 345941N1395120E\n(TATEYAMA-SHI IN CHIBA)\nF)GND G)903FT AGL)",
+  "upper_ft": 903,
+  "upper_ref": "AGL"
+ },
+ "I5459/26": {
+  "areas": [
+   {
+    "lat": 34.864444444444445,
+    "lon": 138.33138888888888,
+    "radius_m": 225.0
+   }
+  ],
+  "end_utc": "2026-10-24T12:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I5459/26",
+  "location": "RJNY",
+  "place": "YAIZU-SHI IN SHIZUOKA",
+  "schedule": "23 2300/0800 24 0930/1200",
+  "start_utc": "2026-10-23T23:00:00+00:00",
+  "text": "(I5459/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/023/3452N13820E001\nA)RJNY B)2610232300 C)2610241200\nD)23 2300/0800 24 0930/1200\nE)FIREWORKS:\nPLACE: RADIUS 225M CENTER 345152N1381953E\n(YAIZU-SHI IN SHIZUOKA)\nF)GND G)2297FT AGL)",
+  "upper_ft": 2297,
+  "upper_ref": "AGL"
+ },
+ "I5601/26": {
+  "areas": [
+   {
+    "lat": 33.97972222222222,
+    "lon": 134.59166666666667,
+    "radius_m": 35.0
+   }
+  ],
+  "end_utc": "2026-10-24T11:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I5601/26",
+  "location": "RJOP",
+  "place": "KOMATSUSHIMA-SHI IN TOKUSHIMA",
+  "schedule": "",
+  "start_utc": "2026-10-24T10:00:00+00:00",
+  "text": "(I5601/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/006/3359N13436E001\nA)RJOP B)2610241000 C)2610241130\nE)FIREWORKS:\nPLACE: RADIUS 35M CENTER 335847N1343530E\n(KOMATSUSHIMA-SHI IN TOKUSHIMA)\nF)GND G)542FT AGL)",
+  "upper_ft": 542,
+  "upper_ref": "AGL"
+ },
+ "I5613/26": {
+  "areas": [
+   {
+    "lat": 34.03472222222222,
+    "lon": 131.59333333333333,
+    "radius_m": 300.0
+   }
+  ],
+  "end_utc": "2026-10-24T10:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I5613/26",
+  "location": "RJOF",
+  "place": "HOFU-SHI IN YAMAGUCHI",
+  "schedule": "",
+  "start_utc": "2026-10-24T10:00:00+00:00",
+  "text": "(I5613/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/016/3402N13136E001\nA)RJOF B)2610241000 C)2610241030\nE)FIREWORKS:\nPLACE: RADIUS 300M CENTER 340205N1313536E\n(HOFU-SHI IN YAMAGUCHI)\nF)GND G)1543FT AGL)",
+  "upper_ft": 1543,
+  "upper_ref": "AGL"
+ },
+ "I5614/26": {
+  "areas": [
+   {
+    "lat": 33.82944444444445,
+    "lon": 130.66166666666666,
+    "radius_m": 100.0
+   }
+  ],
+  "end_utc": "2026-10-31T11:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I5614/26",
+  "location": "RJFA",
+  "place": "ONGA-GUN IN FUKUOKA",
+  "schedule": "",
+  "start_utc": "2026-10-31T10:00:00+00:00",
+  "text": "(I5614/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/012/3350N13040E001\nA)RJFA B)2610311000 C)2610311100\nE)FIREWORKS:\nPLACE: RADIUS 100M CENTER 334946N1303942E\n(ONGA-GUN IN FUKUOKA)\nF)GND G)1149FT AGL)",
+  "upper_ft": 1149,
+  "upper_ref": "AGL"
+ },
+ "I5617/26": {
+  "areas": [
+   {
+    "lat": 34.81638888888889,
+    "lon": 137.70749999999998,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-01T12:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I5617/26",
+  "location": "RJNH",
+  "place": "HAMAMATSU-SHI IN SHIZUOKA",
+  "schedule": "",
+  "start_utc": "2026-11-01T09:00:00+00:00",
+  "text": "(I5617/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/3449N13742E001\nA)RJNH B)2611010900 C)2611011200\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 344859N1374227E\n(HAMAMATSU-SHI IN SHIZUOKA)\nF)GND G)772FT AGL)",
+  "upper_ft": 772,
+  "upper_ref": "AGL"
+ },
+ "I5618/26": {
+  "areas": [
+   {
+    "lat": 43.81361111111111,
+    "lon": 142.36583333333334,
+    "radius_m": 50.0
+   }
+  ],
+  "end_utc": "2026-11-06T10:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I5618/26",
+  "location": "RJCA",
+  "place": "ASAHIKAWA-SHI IN HOKKAIDO",
+  "schedule": "",
+  "start_utc": "2026-11-06T09:30:00+00:00",
+  "text": "(I5618/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/006/4349N14222E001\nA)RJCA B)2611060930 C)2611061000\nE)FIREWORKS:\nPLACE: RADIUS 50M CENTER 434849N1422157E\n(ASAHIKAWA-SHI IN HOKKAIDO)\nF)GND G)558FT AGL)",
+  "upper_ft": 558,
+  "upper_ref": "AGL"
+ },
+ "I5619/26": {
+  "areas": [
+   {
+    "lat": 33.92916666666667,
+    "lon": 134.6036111111111,
+    "radius_m": 85.0
+   }
+  ],
+  "end_utc": "2026-10-24T13:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I5619/26",
+  "location": "RJOP",
+  "place": "ANAN-SHI IN TOKUSHIMA",
+  "schedule": "",
+  "start_utc": "2026-10-24T10:00:00+00:00",
+  "text": "(I5619/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/007/3356N13436E001\nA)RJOP B)2610241000 C)2610241300\nE)FIREWORKS:\nPLACE: RADIUS 85M CENTER 335545N1343613E\n(ANAN-SHI IN TOKUSHIMA)\nF)GND G)624FT AGL)",
+  "upper_ft": 624,
+  "upper_ref": "AGL"
+ },
+ "I5621/26": {
+  "areas": [
+   {
+    "lat": 33.92916666666667,
+    "lon": 134.6036111111111,
+    "radius_m": 5.0
+   }
+  ],
+  "end_utc": "2026-10-25T09:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I5621/26",
+  "location": "RJOP",
+  "place": "ANAN-SHI IN TOKUSHIMA",
+  "schedule": "",
+  "start_utc": "2026-10-25T03:00:00+00:00",
+  "text": "(I5621/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/009/3356N13436E001\nA)RJOP B)2610250300 C)2610250900\nE)FIREWORKS:\nPLACE: RADIUS 5M CENTER 335545N1343613E\n(ANAN-SHI IN TOKUSHIMA)\nF)GND G)821FT AGL)",
+  "upper_ft": 821,
+  "upper_ref": "AGL"
+ },
+ "I5719/26": {
+  "areas": [
+   {
+    "lat": 35.42916666666667,
+    "lon": 139.37416666666667,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-15T09:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I5719/26",
+  "location": "RJTA",
+  "place": "EBINA-SHI IN KANAGAWA",
+  "schedule": "",
+  "start_utc": "2026-11-15T08:30:00+00:00",
+  "text": "FROM 2026/11/15 08:30 To 2026/11/15 09:00\n140438 RJAAYNYX\n(I5719/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/006/3526N13922E001\nA)RJTA B)2611150830 C)2611150900\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 352545N1392227E\n(EBINA-SHI IN KANAGAWA)\nF)GND G)525FT AGL)",
+  "upper_ft": 525,
+  "upper_ref": "AGL"
+ },
+ "I5820/26": {
+  "areas": [
+   {
+    "lat": 26.258055555555554,
+    "lon": 127.79472222222222,
+    "radius_m": 80.0
+   }
+  ],
+  "end_utc": "2026-11-08T12:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I5820/26",
+  "location": "ROTM",
+  "place": "NAKAGAMI-GUN IN OKINAWA",
+  "schedule": "1050/1200",
+  "start_utc": "2026-11-07T10:50:00+00:00",
+  "text": "FROM 2026/11/07 10:50 To 2026/11/08 12:00\n170645 RJAAYNYX\n(I5820/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/009/2615N12748E001\nA)ROTM B)2611071050 C)2611081200\nD)1050/1200\nE)FIREWORKS:\nPLACE: RADIUS 80M CENTER 261529N1274741E\n(NAKAGAMI-GUN IN OKINAWA)\nF)GND G)886FT AGL)",
+  "upper_ft": 886,
+  "upper_ref": "AGL"
+ },
+ "I5849/26": {
+  "areas": [
+   {
+    "lat": 26.31861111111111,
+    "lon": 127.75055555555555,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-10-22T12:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I5849/26",
+  "location": "RODN",
+  "place": "NAKAGAMI-GUN IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-10-22T11:00:00+00:00",
+  "text": "(I5849/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/2619N12745E001\nA)RODN B)2610221100 C)2610221200\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 261907N1274502E\n(NAKAGAMI-GUN IN OKINAWA)\nF)GND G)722FT AGL)",
+  "upper_ft": 722,
+  "upper_ref": "AGL"
+ },
+ "I5852/26": {
+  "areas": [
+   {
+    "lat": 35.44277777777778,
+    "lon": 139.51277777777779,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-04T10:40:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I5852/26",
+  "location": "RJTA",
+  "place": "YOKOHAMA-SHI IN KANAGAWA",
+  "schedule": "",
+  "start_utc": "2026-11-04T09:40:00+00:00",
+  "text": "(I5852/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/3527N13931E001\nA)RJTA B)2611040940 C)2611041040\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 352634N1393046E\n(YOKOHAMA-SHI IN KANAGAWA)\nF)GND G)739FT AGL)",
+  "upper_ft": 739,
+  "upper_ref": "AGL"
+ },
+ "I5894/26": {
+  "areas": [
+   {
+    "lat": 31.386666666666667,
+    "lon": 130.8488888888889,
+    "radius_m": 50.0
+   }
+  ],
+  "end_utc": "2026-11-01T07:35:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I5894/26",
+  "location": "RJFY",
+  "place": "KANOYA-SHI IN KAGOSHIMA",
+  "schedule": "31 2200/2205 NOV 01 0000/0005 0100/01050700/0705 0730/0735",
+  "start_utc": "2026-10-31T22:00:00+00:00",
+  "text": "(I5894/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/004/3123N13051E001\nA)RJFY B)2610312200 C)2611010735\nD)31 2200/2205 NOV 01 0000/0005 0100/01050700/0705 0730/0735\nE)FIREWORKS:\nPLACE: RADIUS 50M CENTER 312312N1305056E\n(KANOYA-SHI IN KAGOSHIMA)\nF)GND G)394FT AGL)",
+  "upper_ft": 394,
+  "upper_ref": "AGL"
+ },
+ "I5895/26": {
+  "areas": [
+   {
+    "lat": 26.31861111111111,
+    "lon": 127.75055555555555,
+    "radius_m": 80.0
+   }
+  ],
+  "end_utc": "2026-11-28T11:05:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I5895/26",
+  "location": "RODN",
+  "place": "NAKAGAMI-GUN IN OKINAWA",
+  "schedule": "07 14 21 28 1100/1105",
+  "start_utc": "2026-11-07T11:00:00+00:00",
+  "text": "FROM 2026/11/07 11:00 To 2026/11/28 11:05\n210251 RJAAYNYX\n(I5895/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/009/2619N12745E001\nA)RODN B)2611071100 C)2611281105\nD)07 14 21 28 1100/1105\nE)FIREWORKS:\nPLACE: RADIUS 80M CENTER 261907N1274502E\n(NAKAGAMI-GUN IN OKINAWA)\nF)GND G)886FT AGL)",
+  "upper_ft": 886,
+  "upper_ref": "AGL"
+ },
+ "I5899/26": {
+  "areas": [
+   {
+    "lat": 33.89388888888889,
+    "lon": 130.6538888888889,
+    "radius_m": 65.0
+   }
+  ],
+  "end_utc": "2026-11-08T12:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "I5899/26",
+  "location": "RJFA",
+  "place": "ONGA-GUN IN FUKUOKA",
+  "schedule": "31-NOV 01 03 07-08 1115/1200",
+  "start_utc": "2026-10-31T11:15:00+00:00",
+  "text": "FROM 2026/10/31 11:15 To 2026/11/08 12:00\n210707 RJAAYNYX\n(I5899/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/3354N13039E001\nA)RJFA B)2610311115 C)2611081200\nD)31-NOV 01 03 07-08 1115/1200\nE)FIREWORKS:\nPLACE: RADIUS 65M CENTER 335338N1303914E\n(ONGA-GUN IN FUKUOKA)\nF)GND G)739FT AGL)",
+  "upper_ft": 739,
+  "upper_ref": "AGL"
+ },
+ "I5945/26": {
+  "areas": [
+   {
+    "lat": 36.495,
+    "lon": 139.88250000000002,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-10-24T11:00:00+00:00",
+  "first_seen": "2026-10-24",
+  "id": "I5945/26",
+  "location": "RJTU",
+  "place": "UTSUNOMIYA-SHI IN TOCHIGI",
+  "schedule": "",
+  "start_utc": "2026-10-24T10:50:00+00:00",
+  "text": "(I5945/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/3630N13953E001\nA)RJTU B)2610241050 C)2610241100\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 362942N1395257E\n(UTSUNOMIYA-SHI IN TOCHIGI)\nF)GND G)722FT AGL)",
+  "upper_ft": 722,
+  "upper_ref": "AGL"
+ },
+ "J1927/26": {
+  "areas": [
+   {
+    "lat": 35.630833333333335,
+    "lon": 139.88472222222222,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-10-31T12:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "J1927/26",
+  "location": "RJTT",
+  "place": "URAYASU-SHI IN CHIBA",
+  "schedule": "01-04 0930/1200 05-31 0900/1200",
+  "start_utc": "2026-10-01T09:30:00+00:00",
+  "text": "(J1927/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/009/3538N13953E001\nA)RJTT B)2610010930 C)2610311200\nD)01-04 0930/1200 05-31 0900/1200\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 353751N1395305E\n(URAYASU-SHI IN CHIBA)\nF)GND G)821FT AGL)",
+  "upper_ft": 821,
+  "upper_ref": "AGL"
+ },
+ "J2196/26": {
+  "areas": [
+   {
+    "lat": 35.64361111111111,
+    "lon": 139.76944444444445,
+    "radius_m": 160.0
+   }
+  ],
+  "end_utc": "2026-10-24T10:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "J2196/26",
+  "location": "RJTT",
+  "place": "CHUO-KU IN TOKYO",
+  "schedule": "",
+  "start_utc": "2026-10-24T08:30:00+00:00",
+  "text": "(J2196/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/017/3539N13946E001\nA)RJTT B)2610240830 C)2610241000\nE)FIREWORKS:\nPLACE: RADIUS 160M CENTER 353837N1394610E(CHUO-KU IN TOKYO)RMK: MISSED APPROACH TEMPO CHANGE,SEE NOTAM RJAAYNYX J2194/26\nF)GND G)1684FT AGL)",
+  "upper_ft": 1684,
+  "upper_ref": "AGL"
+ },
+ "J2202/26": {
+  "areas": [
+   {
+    "lat": 35.630833333333335,
+    "lon": 139.88472222222222,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-30T12:00:00+00:00",
+  "first_seen": "2026-10-24",
+  "id": "J2202/26",
+  "location": "RJTT",
+  "place": "URAYASU-SHI IN CHIBA",
+  "schedule": "0900/1200",
+  "start_utc": "2026-11-01T09:00:00+00:00",
+  "text": "FROM 2026/11/01 09:00 To 2026/11/30 12:00\n230336 RJAAYNYX\n(J2202/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/009/3538N13953E001\nA)RJTT B)2611010900 C)2611301200\nD)0900/1200\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 353751N1395305E\n(URAYASU-SHI IN CHIBA)\nF)GND G)821FT AGL)",
+  "upper_ft": 821,
+  "upper_ref": "AGL"
+ },
+ "J2253/26": {
+  "areas": [
+   {
+    "lat": 35.64666666666667,
+    "lon": 139.7686111111111,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-10-31T08:55:00+00:00",
+  "first_seen": "2026-10-29",
+  "id": "J2253/26",
+  "location": "RJTT",
+  "place": "CHUO-KU IN TOKYO",
+  "schedule": "",
+  "start_utc": "2026-10-31T08:50:00+00:00",
+  "text": "(J2253/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/007/3539N13946E001\nA)RJTT B)2610310850 C)2610310855\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 353848N1394607E\n(CHUO-KU IN TOKYO)\nF)GND G)696FT AGL)",
+  "upper_ft": 696,
+  "upper_ref": "AGL"
+ },
+ "J2276/26": {
+  "areas": [
+   {
+    "lat": 35.544444444444444,
+    "lon": 139.69972222222222,
+    "radius_m": 90.0
+   }
+  ],
+  "end_utc": "2026-11-14T09:30:00+00:00",
+  "first_seen": "2026-11-03",
+  "id": "J2276/26",
+  "location": "RJTT",
+  "place": "OTA-KU IN TOKYO",
+  "schedule": "",
+  "start_utc": "2026-11-14T08:30:00+00:00",
+  "text": "FROM 2026/11/14 08:30 To 2026/11/14 09:30\n020646 RJAAYNYX\n(J2276/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/011/3533N13942E001\nA)RJTT B)2611140830 C)2611140930\nE)FIREWORKS:\nPLACE: RADIUS 90M CENTER 353240N1394159E\n(OTA-KU IN TOKYO)\nF)GND G)1018FT AGL)",
+  "upper_ft": 1018,
+  "upper_ref": "AGL"
+ },
+ "J2294/26": {
+  "areas": [
+   {
+    "lat": 35.63166666666667,
+    "lon": 139.7686111111111,
+    "radius_m": 50.0
+   }
+  ],
+  "end_utc": "2026-12-26T10:10:00+00:00",
+  "first_seen": "2026-11-04",
+  "id": "J2294/26",
+  "location": "RJTT",
+  "place": "MINATO-KU IN TOKYO",
+  "schedule": "05 12 19 26 1000/1010",
+  "start_utc": "2026-12-05T10:00:00+00:00",
+  "text": "FROM 2026/12/05 10:00 To 2026/12/26 10:10\n040729 RJAAYNYX\n(J2294/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/005/3538N13946E001\nA)RJTT B)2612051000 C)2612261010\nD)05 12 19 26 1000/1010\nE)FIREWORKS:\nPLACE: RADIUS 50M CENTER 353754N1394607E\n(MINATO-KU IN TOKYO)\nF)GND G)493FT AGL)",
+  "upper_ft": 493,
+  "upper_ref": "AGL"
+ },
+ "J2299/26": {
+  "areas": [
+   {
+    "lat": 35.450833333333335,
+    "lon": 139.65333333333334,
+    "radius_m": 160.0
+   }
+  ],
+  "end_utc": "2026-11-21T10:00:00+00:00",
+  "first_seen": "2026-11-07",
+  "id": "J2299/26",
+  "location": "RJTT",
+  "place": "YOKOHAMA-SHI IN KANAGAWA",
+  "schedule": "",
+  "start_utc": "2026-11-21T07:00:00+00:00",
+  "text": "FROM 2026/11/21 07:00 To 2026/11/21 10:00\n060101 RJAAYNYX\n(J2299/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/017/3527N13939E001\nA)RJTT B)2611210700 C)2611211000\nE)FIREWORKS:\nPLACE: RADIUS 160M CENTER 352703N1393912E\n(YOKOHAMA-SHI IN KANAGAWA)\nF)GND G)1608FT AGL)",
+  "upper_ft": 1608,
+  "upper_ref": "AGL"
+ },
+ "K2335/26": {
+  "areas": [
+   {
+    "lat": 32.82277777777778,
+    "lon": 130.11583333333334,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-01T09:10:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "K2335/26",
+  "location": "RJFU",
+  "place": "ISAHAYA-SHI IN NAGASAKI",
+  "schedule": "",
+  "start_utc": "2026-11-01T09:00:00+00:00",
+  "text": "(K2335/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/007/3249N13007E001\nA)RJFU B)2611010900 C)2611010910\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 324922N1300657E\n(ISAHAYA-SHI IN NAGASAKI)\nF)GND G)690FT AGL)",
+  "upper_ft": 690,
+  "upper_ref": "AGL"
+ },
+ "K2470/26": {
+  "areas": [
+   {
+    "lat": 32.683611111111105,
+    "lon": 130.67555555555555,
+    "radius_m": 140.0
+   }
+  ],
+  "end_utc": "2026-11-21T11:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "K2470/26",
+  "location": "RJFT",
+  "place": "UTO-SHI IN KUMAMOTO",
+  "schedule": "",
+  "start_utc": "2026-11-21T10:00:00+00:00",
+  "text": "FROM 2026/11/21 10:00 To 2026/11/21 11:00\n090253 RJAAYNYX\n(K2470/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/012/3241N13041E001\nA)RJFT B)2611211000 C)2611211100\nE)FIREWORKS:\nPLACE: RADIUS 140M CENTER 324101N1304032E\n(UTO-SHI IN KUMAMOTO)\nF)GND G)1116FT AGL)",
+  "upper_ft": 1116,
+  "upper_ref": "AGL"
+ },
+ "K2513/26": {
+  "areas": [
+   {
+    "lat": 34.775,
+    "lon": 135.42916666666665,
+    "radius_m": 45.0
+   }
+  ],
+  "end_utc": "2026-10-31T11:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "K2513/26",
+  "location": "RJOO",
+  "place": "ITAMI-SHI IN HYOGO",
+  "schedule": "0600/0605 0900/1100",
+  "start_utc": "2026-10-31T06:00:00+00:00",
+  "text": "(K2513/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/005/3447N13526E001\nA)RJOO B)2610310600 C)2610311100\nD)0600/0605 0900/1100\nE)FIREWORKS:\nPLACE: RADIUS 45M CENTER 344630N1352545E(ITAMI-SHI IN HYOGO)RMK: WX MNM CHANGE,SEE NOTAM RJAAYNYX K2509/26,K2510/26,K2511/26,K2512/26\nF)GND G)443FT AGL)",
+  "upper_ft": 443,
+  "upper_ref": "AGL"
+ },
+ "K2550/26": {
+  "areas": [
+   {
+    "lat": 32.83888888888889,
+    "lon": 130.89944444444444,
+    "radius_m": 120.0
+   }
+  ],
+  "end_utc": "2026-11-14T11:15:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "K2550/26",
+  "location": "RJFT",
+  "place": "ASO-GUN IN KUMAMOTO",
+  "schedule": "",
+  "start_utc": "2026-11-14T10:30:00+00:00",
+  "text": "FROM 2026/11/14 10:30 To 2026/11/14 11:15\n210157 RJAAYNYX\n(K2550/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/013/3250N13054E001\nA)RJFT B)2611141030 C)2611141115\nE)FIREWORKS:\nPLACE: RADIUS 120M CENTER 325020N1305358E\n(ASO-GUN IN KUMAMOTO)\nF)GND G)1214FT AGL)",
+  "upper_ft": 1214,
+  "upper_ref": "AGL"
+ },
+ "K2551/26": {
+  "areas": [
+   {
+    "lat": 31.740833333333335,
+    "lon": 130.7577777777778,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-01T13:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "K2551/26",
+  "location": "RJFK",
+  "place": "KIRISHIMA-SHI IN KAGOSHIMA",
+  "schedule": "",
+  "start_utc": "2026-11-01T11:00:00+00:00",
+  "text": "(K2551/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/007/3144N13045E001\nA)RJFK B)2611011100 C)2611011300\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 314427N1304528E\n(KIRISHIMA-SHI IN KAGOSHIMA)\nF)GND G)690FT AGL)",
+  "upper_ft": 690,
+  "upper_ref": "AGL"
+ },
+ "K2553/26": {
+  "areas": [
+   {
+    "lat": 32.84388888888889,
+    "lon": 129.845,
+    "radius_m": 140.0
+   }
+  ],
+  "end_utc": "2026-10-31T10:45:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "K2553/26",
+  "location": "RJFU",
+  "place": "NISHISONOGI-GUN IN NAGASAKI",
+  "schedule": "",
+  "start_utc": "2026-10-31T09:45:00+00:00",
+  "text": "(K2553/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/014/3251N12951E001\nA)RJFU B)2610310945 C)2610311045\nE)FIREWORKS:\nPLACE: RADIUS 140M CENTER 325038N1295042E\n(NISHISONOGI-GUN IN NAGASAKI)\nF)GND G)1379FT AGL)",
+  "upper_ft": 1379,
+  "upper_ref": "AGL"
+ },
+ "K2572/26": {
+  "areas": [
+   {
+    "lat": 41.783055555555556,
+    "lon": 140.8011111111111,
+    "radius_m": 40.0
+   }
+  ],
+  "end_utc": "2026-10-25T09:30:00+00:00",
+  "first_seen": "2026-10-24",
+  "id": "K2572/26",
+  "location": "RJCH",
+  "place": "HAKODATE-SHI IN HOKKAIDO",
+  "schedule": "",
+  "start_utc": "2026-10-25T09:00:00+00:00",
+  "text": "(K2572/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/005/4147N14048E001\nA)RJCH B)2610250900 C)2610250930\nE)FIREWORKS:\nPLACE: RADIUS 40M CENTER 414659N1404804E\n(HAKODATE-SHI IN HOKKAIDO)\nF)GND G)460FT AGL)",
+  "upper_ft": 460,
+  "upper_ref": "AGL"
+ },
+ "K2581/26": {
+  "areas": [
+   {
+    "lat": 34.815,
+    "lon": 135.41694444444443,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-07T09:30:00+00:00",
+  "first_seen": "2026-10-24",
+  "id": "K2581/26",
+  "location": "RJOO",
+  "place": "IKEDA-SHI IN OSAKA, KAWANISHI-SHI IN HYOGO",
+  "schedule": "",
+  "start_utc": "2026-11-07T09:00:00+00:00",
+  "text": "FROM 2026/11/07 09:00 To 2026/11/07 09:30\n240645 RJAAYNYX\n(K2581/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/006/3449N13525E001\nA)RJOO B)2611070900 C)2611070930\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 344854N1352501E\n(IKEDA-SHI IN OSAKA, KAWANISHI-SHI IN HYOGO)\nRMK: WX MNM CHANGE, SEE NOTAM RJAAYNYX K2577/26, K2578/26, K2579/26,\nK2580/26\nF)GND G)591FT AGL)",
+  "upper_ft": 591,
+  "upper_ref": "AGL"
+ },
+ "L4071/26": {
+  "areas": [
+   {
+    "lat": 24.334166666666665,
+    "lon": 124.19027777777778,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-03T13:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "L4071/26",
+  "location": "ROIG",
+  "place": "ISHIGAKI-SHI IN OKINAWA",
+  "schedule": "26 NOV 03 1100/1300",
+  "start_utc": "2026-10-26T11:00:00+00:00",
+  "text": "(L4071/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/2420N12411E001\nA)ROIG B)2610261100 C)2611031300\nD)26 NOV 03 1100/1300\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 242003N1241125E\n(ISHIGAKI-SHI IN OKINAWA)\nF)GND G)722FT AGL)",
+  "upper_ft": 722,
+  "upper_ref": "AGL"
+ },
+ "L4142/26": {
+  "areas": [
+   {
+    "lat": 34.726111111111116,
+    "lon": 138.22583333333333,
+    "radius_m": 180.0
+   }
+  ],
+  "end_utc": "2026-11-14T09:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "L4142/26",
+  "location": "RJNS",
+  "place": "MAKINOHARA-SHI IN SHIZUOKA",
+  "schedule": "",
+  "start_utc": "2026-11-14T08:00:00+00:00",
+  "text": "FROM 2026/11/14 08:00 To 2026/11/14 09:30\n250135 RJAAYNYX\n(L4142/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/016/3444N13814E001\nA)RJNS B)2611140800 C)2611140930\nE)FIREWORKS:\nPLACE: RADIUS 180M CENTER 344334N1381333E\n(MAKINOHARA-SHI IN SHIZUOKA)\nF)GND G)1543FT AGL)",
+  "upper_ft": 1543,
+  "upper_ref": "AGL"
+ },
+ "L4362/26": {
+  "areas": [
+   {
+    "lat": 34.808055555555555,
+    "lon": 138.1511111111111,
+    "radius_m": 50.0
+   }
+  ],
+  "end_utc": "2026-10-25T06:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "L4362/26",
+  "location": "RJNS",
+  "place": "SHIMADA-SHI IN SHIZUOKA",
+  "schedule": "24 2200/2210 25 0100/0110 0600/0630",
+  "start_utc": "2026-10-24T22:00:00+00:00",
+  "text": "(L4362/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/004/3448N13809E001\nA)RJNS B)2610242200 C)2610250630\nD)24 2200/2210 25 0100/0110 0600/0630\nE)FIREWORKS:\nPLACE: RADIUS 50M CENTER 344829N1380904E\n(SHIMADA-SHI IN SHIZUOKA)\nF)GND G)394FT AGL)",
+  "upper_ft": 394,
+  "upper_ref": "AGL"
+ },
+ "L4363/26": {
+  "areas": [
+   {
+    "lat": 34.80361111111111,
+    "lon": 138.20055555555555,
+    "radius_m": 50.0
+   }
+  ],
+  "end_utc": "2026-10-31T22:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "L4363/26",
+  "location": "RJNS",
+  "place": "SHIMADA-SHI IN SHIZUOKA",
+  "schedule": "2200/2230",
+  "start_utc": "2026-10-30T22:00:00+00:00",
+  "text": "(L4363/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/004/3448N13812E001\nA)RJNS B)2610302200 C)2610312230\nD)2200/2230\nE)FIREWORKS:\nPLACE: RADIUS 50M CENTER 344813N1381202E\n(SHIMADA-SHI IN SHIZUOKA)\nF)GND G)394FT AGL)",
+  "upper_ft": 394,
+  "upper_ref": "AGL"
+ },
+ "L4365/26": {
+  "areas": [
+   {
+    "lat": 34.81055555555555,
+    "lon": 138.1652777777778,
+    "radius_m": 50.0
+   }
+  ],
+  "end_utc": "2026-11-03T01:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "L4365/26",
+  "location": "RJNS",
+  "place": "SHIMADA-SHI IN SHIZUOKA",
+  "schedule": "",
+  "start_utc": "2026-11-02T23:00:00+00:00",
+  "text": "(L4365/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/004/3449N13810E001\nA)RJNS B)2611022300 C)2611030130\nE)FIREWORKS:\nPLACE: RADIUS 50M CENTER 344838N1380955E\n(SHIMADA-SHI IN SHIZUOKA)\nF)GND G)394FT AGL)",
+  "upper_ft": 394,
+  "upper_ref": "AGL"
+ },
+ "L4501/26": {
+  "areas": [
+   {
+    "lat": 31.924722222222222,
+    "lon": 131.44361111111112,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-10-31T10:50:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "L4501/26",
+  "location": "RJFM",
+  "place": "MIYAZAKI-SHI",
+  "schedule": "",
+  "start_utc": "2026-10-31T09:30:00+00:00",
+  "text": "(L4501/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/006/3155N13127E001\nA)RJFM B)2610310930 C)2610311050\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 315529N1312637E\n(MIYAZAKI-SHI)\nF)GND G)591FT AGL)",
+  "upper_ft": 591,
+  "upper_ref": "AGL"
+ },
+ "L4502/26": {
+  "areas": [
+   {
+    "lat": 31.89527777777778,
+    "lon": 131.42666666666665,
+    "radius_m": 10.0
+   }
+  ],
+  "end_utc": "2026-11-03T02:35:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "L4502/26",
+  "location": "RJFM",
+  "place": "MIYAZAKI-SHI",
+  "schedule": "03 0000/0005 0230/0235",
+  "start_utc": "2026-11-03T00:00:00+00:00",
+  "text": "(L4502/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/003/3154N13126E001\nA)RJFM B)2611030000 C)2611030235\nD)03 0000/0005 0230/0235\nE)FIREWORKS:\nPLACE: RADIUS 10M CENTER 315343N1312536E\n(MIYAZAKI-SHI)\nF)GND G)263FT AGL)",
+  "upper_ft": 263,
+  "upper_ref": "AGL"
+ },
+ "L4503/26": {
+  "areas": [
+   {
+    "lat": 33.81527777777777,
+    "lon": 132.685,
+    "radius_m": 65.0
+   }
+  ],
+  "end_utc": "2026-11-01T12:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "L4503/26",
+  "location": "RJOM",
+  "place": "MATSUYAMA-SHI IN EHIM E",
+  "schedule": "",
+  "start_utc": "2026-11-01T10:00:00+00:00",
+  "text": "(L4503/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/3349N13241E001\nA)RJOM B)2611011000 C)2611011200\nE)FIREWORKS:\nPLACE: RADIUS 65M CENTER 334855N1324106E\n(MATSUYAMA-SHI IN EHIM\nE)\nF)GND G)739FT AGL)",
+  "upper_ft": 739,
+  "upper_ref": "AGL"
+ },
+ "L4504/26": {
+  "areas": [
+   {
+    "lat": 31.8575,
+    "lon": 131.43305555555554,
+    "radius_m": 10.0
+   }
+  ],
+  "end_utc": "2026-11-14T21:05:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "L4504/26",
+  "location": "RJFM",
+  "place": "MIYAZAKI-SHI",
+  "schedule": "",
+  "start_utc": "2026-11-14T21:00:00+00:00",
+  "text": "FROM 2026/11/14 21:00 To 2026/11/14 21:05\n210419 RJAAYNYX\n(L4504/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/003/3151N13126E001\nA)RJFM B)2611142100 C)2611142105\nE)FIREWORKS:\nPLACE: RADIUS 10M CENTER 315127N1312559E\n(MIYAZAKI-SHI)\nF)GND G)263FT AGL)",
+  "upper_ft": 263,
+  "upper_ref": "AGL"
+ },
+ "L4538/26": {
+  "areas": [
+   {
+    "lat": 34.79388888888889,
+    "lon": 138.18333333333334,
+    "radius_m": 30.0
+   }
+  ],
+  "end_utc": "2026-11-26T06:05:00+00:00",
+  "first_seen": "2026-10-24",
+  "id": "L4538/26",
+  "location": "RJNS",
+  "place": "MAKINOHARA-SHI IN SHIZUOKA",
+  "schedule": "25 2100/2105 26 0000/0005 0100/0105 0400/0405 0600/0605",
+  "start_utc": "2026-11-25T21:00:00+00:00",
+  "text": "FROM 2026/11/25 21:00 To 2026/11/26 06:05\n230337 RJAAYNYX\n(L4538/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/002/3448N13811E001\nA)RJNS B)2611252100 C)2611260605\nD)25 2100/2105 26 0000/0005 0100/0105 0400/0405\n0600/0605\nE)FIREWORKS:\nPLACE: RADIUS 30M CENTER 344738N1381100E\n(MAKINOHARA-SHI IN SHIZUOKA)\nF)GND G)197FT AGL)",
+  "upper_ft": 197,
+  "upper_ref": "AGL"
+ },
+ "L4557/26": {
+  "areas": [
+   {
+    "lat": 33.87166666666667,
+    "lon": 132.70777777777778,
+    "radius_m": 65.0
+   }
+  ],
+  "end_utc": "2026-11-21T11:30:00+00:00",
+  "first_seen": "2026-10-29",
+  "id": "L4557/26",
+  "location": "RJOM",
+  "place": "MATSUYAMA-SHI IN EHIME",
+  "schedule": "",
+  "start_utc": "2026-11-21T10:30:00+00:00",
+  "text": "FROM 2026/11/21 10:30 To 2026/11/21 11:30\n250519 RJAAYNYX\n(L4557/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/004/3352N13242E001\nA)RJOM B)2611211030 C)2611211130\nE)FIREWORKS:\nPLACE: RADIUS 65M CENTER 335218N1324228E\n(MATSUYAMA-SHI IN EHIME)\nF)GND G)345FT AGL)",
+  "upper_ft": 345,
+  "upper_ref": "AGL"
+ },
+ "L4558/26": {
+  "areas": [
+   {
+    "lat": 33.87166666666667,
+    "lon": 132.70777777777778,
+    "radius_m": 80.0
+   }
+  ],
+  "end_utc": "2026-11-28T11:30:00+00:00",
+  "first_seen": "2026-10-29",
+  "id": "L4558/26",
+  "location": "RJOM",
+  "place": "MATSUYAMA-SHI IN EHIME",
+  "schedule": "",
+  "start_utc": "2026-11-28T10:30:00+00:00",
+  "text": "FROM 2026/11/28 10:30 To 2026/11/28 11:30\n250520 RJAAYNYX\n(L4558/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/004/3352N13242E001\nA)RJOM B)2611281030 C)2611281130\nE)FIREWORKS:\nPLACE: RADIUS 80M CENTER 335218N1324228E\n(MATSUYAMA-SHI IN EHIME)\nF)GND G)345FT AGL)",
+  "upper_ft": 345,
+  "upper_ref": "AGL"
+ },
+ "L4668/26": {
+  "areas": [
+   {
+    "lat": 31.99361111111111,
+    "lon": 131.24888888888887,
+    "radius_m": 150.0
+   }
+  ],
+  "end_utc": "2026-11-07T11:30:00+00:00",
+  "first_seen": "2026-11-03",
+  "id": "L4668/26",
+  "location": "RJFM",
+  "place": "HIGASHIMOROKATA-GUN IN MIYAZAKI",
+  "schedule": "",
+  "start_utc": "2026-11-07T10:30:00+00:00",
+  "text": "FROM 2026/11/07 10:30 To 2026/11/07 11:30\n020508 RJAAYNYX\n(L4668/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/015/3200N13115E001\nA)RJFM B)2611071030 C)2611071130\nE)FIREWORKS:\nPLACE: RADIUS 150M CENTER 315937N1311456E\n(HIGASHIMOROKATA-GUN IN MIYAZAKI)\nF)GND G)1477FT AGL)",
+  "upper_ft": 1477,
+  "upper_ref": "AGL"
+ },
+ "L4682/26": {
+  "areas": [
+   {
+    "lat": 36.16722222222222,
+    "lon": 140.35694444444445,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-08T00:00:00+00:00",
+  "first_seen": "2026-11-04",
+  "id": "L4682/26",
+  "location": "RJAH",
+  "place": "OMITAMA-SHI IN IBARAKI",
+  "schedule": "",
+  "start_utc": "2026-11-07T23:45:00+00:00",
+  "text": "FROM 2026/11/07 23:45 To 2026/11/08 00:00\n040702 RJAAYNYX\n(L4682/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/006/3610N14021E001\nA)RJAH B)2611072345 C)2611080000\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 361002N1402125E\n(OMITAMA-SHI IN IBARAKI)\nF)GND G)525FT AGL)",
+  "upper_ft": 525,
+  "upper_ref": "AGL"
+ },
+ "L4708/26": {
+  "areas": [
+   {
+    "lat": 31.8825,
+    "lon": 131.40333333333334,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-08T10:50:00+00:00",
+  "first_seen": "2026-11-07",
+  "id": "L4708/26",
+  "location": "RJFM",
+  "place": "MIYAZAKI-SHI",
+  "schedule": "",
+  "start_utc": "2026-11-08T10:10:00+00:00",
+  "text": "FROM 2026/11/08 10:10 To 2026/11/08 10:50\n060017 RJAAYNYX\n(L4708/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/004/3153N13124E001\nA)RJFM B)2611081010 C)2611081050\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 315257N1312412E\n(MIYAZAKI-SHI)\nF)GND G)394FT AGL)",
+  "upper_ft": 394,
+  "upper_ref": "AGL"
+ },
+ "M1289/26": {
+  "areas": [
+   {
+    "lat": 34.67944444444444,
+    "lon": 135.19111111111113,
+    "radius_m": 125.0
+   },
+   {
+    "lat": 34.67638888888889,
+    "lon": 135.19194444444446,
+    "radius_m": 125.0
+   }
+  ],
+  "end_utc": "2026-10-23T09:50:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "M1289/26",
+  "location": "RJBE",
+  "place": "KOBE-SHI IN HYOGO",
+  "schedule": "0930/0950",
+  "start_utc": "2026-10-19T09:30:00+00:00",
+  "text": "(M1289/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/014/3441N13511E001\nA)RJBE B)2610190930 C)2610230950\nD)0930/0950\nE)FIREWORKS:(1)\nPLACE: RADIUS 125M CENTER 344046N1351128E(2)\nPLACE: RADIUS 125M CENTER 344035N1351131E\n(KOBE-SHI IN HYOGO)\nF)GND G)1329FT AGL)",
+  "upper_ft": 1329,
+  "upper_ref": "AGL"
+ },
+ "M1450/26": {
+  "areas": [
+   {
+    "lat": 24.81361111111111,
+    "lon": 125.17750000000001,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-07T13:00:00+00:00",
+  "first_seen": "2026-10-29",
+  "id": "M1450/26",
+  "location": "RORS",
+  "place": "MIYAKOJIMA-SHI IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-11-07T11:30:00+00:00",
+  "text": "FROM 2026/11/07 11:30 To 2026/11/07 13:00\n271149 RJAAYNYX\n(M1450/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/2449N12511E001\nA)RORS B)2611071130 C)2611071300\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 244849N1251039E\n(MIYAKOJIMA-SHI IN OKINAWA)\nF)GND G)722FT AGL)",
+  "upper_ft": 722,
+  "upper_ref": "AGL"
+ },
+ "M1493/26": {
+  "areas": [
+   {
+    "lat": 33.55555555555555,
+    "lon": 133.75611111111112,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-15T13:00:00+00:00",
+  "first_seen": "2026-11-03",
+  "id": "M1493/26",
+  "location": "RJOK",
+  "place": "KONAN-SHI IN KOCHI",
+  "schedule": "",
+  "start_utc": "2026-11-15T08:00:00+00:00",
+  "text": "FROM 2026/11/15 08:00 To 2026/11/15 13:00\n020510 RJAAYNYX\n(M1493/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/3333N13345E001\nA)RJOK B)2611150800 C)2611151300\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 333320N1334522E\n(KONAN-SHI IN KOCHI)\nF)GND G)755FT AGL)",
+  "upper_ft": 755,
+  "upper_ref": "AGL"
+ },
+ "N3195/26": {
+  "areas": [
+   {
+    "lat": 36.14833333333333,
+    "lon": 137.9013888888889,
+    "radius_m": 5.0
+   }
+  ],
+  "end_utc": "2026-10-24T03:05:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "N3195/26",
+  "location": "RJAF",
+  "place": "MATSUMOTO-SHI IN NAGANO",
+  "schedule": "0000/0005 0300/0305",
+  "start_utc": "2026-10-24T00:00:00+00:00",
+  "text": "(N3195/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/004/3609N13754E001\nA)RJAF B)2610240000 C)2610240305\nD)0000/0005 0300/0305\nE)FIREWORKS:\nPLACE: RADIUS 5M CENTER 360854N1375405E\n(MATSUMOTO-SHI IN NAGANO)\nF)GND G)394FT AGL)",
+  "upper_ft": 394,
+  "upper_ref": "AGL"
+ },
+ "N4089/26": {
+  "areas": [
+   {
+    "lat": 38.33694444444445,
+    "lon": 140.38111111111112,
+    "radius_m": 70.0
+   }
+  ],
+  "end_utc": "2026-11-25T12:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "N4089/26",
+  "location": "RJSC",
+  "place": "TENDO-SHI IN YAMAGATA",
+  "schedule": "",
+  "start_utc": "2026-11-25T10:50:00+00:00",
+  "text": "FROM 2026/11/25 10:50 To 2026/11/25 12:00\n160712 RJAAYNYX\n(N4089/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/3820N14023E001\nA)RJSC B)2611251050 C)2611251200\nE)FIREWORKS:\nPLACE: RADIUS 70M CENTER 382013N1402252E\n(TENDO-SHI IN YAMAGATA)\nF)GND G)739FT AGL)",
+  "upper_ft": 739,
+  "upper_ref": "AGL"
+ },
+ "N4124/26": {
+  "areas": [
+   {
+    "lat": 24.781944444444445,
+    "lon": 125.26166666666667,
+    "radius_m": 200.0
+   }
+  ],
+  "end_utc": "2026-11-08T12:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "N4124/26",
+  "location": "ROMY",
+  "place": "MIYAKOJIMA-SHI IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-11-08T10:30:00+00:00",
+  "text": "FROM 2026/11/08 10:30 To 2026/11/08 12:30\n210243 RJAAYNYX\n(N4124/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/2447N12516E001\nA)ROMY B)2611081030 C)2611081230\nE)FIREWORKS:\nPLACE: RADIUS 200M CENTER 244655N1251542E\n(MIYAKOJIMA-SHI IN OKINAWA)\nF)GND G)755FT AGL)",
+  "upper_ft": 755,
+  "upper_ref": "AGL"
+ },
+ "N4153/26": {
+  "areas": [
+   {
+    "lat": 32.70166666666667,
+    "lon": 128.85416666666666,
+    "radius_m": 150.0
+   }
+  ],
+  "end_utc": "2026-11-15T12:30:00+00:00",
+  "first_seen": "2026-10-24",
+  "id": "N4153/26",
+  "location": "RJFE",
+  "place": "GOTO-SHI IN NAGASAKI",
+  "schedule": "",
+  "start_utc": "2026-11-15T11:30:00+00:00",
+  "text": "FROM 2026/11/15 11:30 To 2026/11/15 12:30\n220547 RJAAYNYX\n(N4153/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/017/3242N12851E001\nA)RJFE B)2611151130 C)2611151230\nE)FIREWORKS:\nPLACE: RADIUS 150M CENTER 324206N1285115E\n(GOTO-SHI IN NAGASAKI)\nF)GND G)1641FT AGL)",
+  "upper_ft": 1641,
+  "upper_ref": "AGL"
+ },
+ "N4251/26": {
+  "areas": [
+   {
+    "lat": 38.33694444444445,
+    "lon": 140.38111111111112,
+    "radius_m": 70.0
+   }
+  ],
+  "end_utc": "2026-12-25T11:30:00+00:00",
+  "first_seen": "2026-11-03",
+  "id": "N4251/26",
+  "location": "RJSC",
+  "place": "TENDO-SHI IN YAMAGATA",
+  "schedule": "",
+  "start_utc": "2026-12-25T10:00:00+00:00",
+  "text": "FROM 2026/12/25 10:00 To 2026/12/25 11:30\n020017 RJAAYNYX\n(N4251/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/3820N14023E001\nA)RJSC B)2612251000 C)2612251130\nE)FIREWORKS:\nPLACE: RADIUS 70M CENTER 382013N1402252E\n(TENDO-SHI IN YAMAGATA)\nF)GND G)739FT AGL)",
+  "upper_ft": 739,
+  "upper_ref": "AGL"
+ },
+ "N4280/26": {
+  "areas": [
+   {
+    "lat": 24.804166666666667,
+    "lon": 125.26555555555555,
+    "radius_m": 150.0
+   }
+  ],
+  "end_utc": "2026-11-13T13:00:00+00:00",
+  "first_seen": "2026-11-07",
+  "id": "N4280/26",
+  "location": "ROMY",
+  "place": "MIYAKOJIMA-SHI IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-11-13T10:30:00+00:00",
+  "text": "FROM 2026/11/13 10:30 To 2026/11/13 13:00\n060020 RJAAYNYX\n(N4280/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/017/2448N12516E001\nA)ROMY B)2611131030 C)2611131300\nE)FIREWORKS:\nPLACE: RADIUS 150M CENTER 244815N1251556E\n(MIYAKOJIMA-SHI IN OKINAWA)\nF)GND G)1608FT AGL)",
+  "upper_ft": 1608,
+  "upper_ref": "AGL"
+ },
+ "O1834/26": {
+  "areas": [
+   {
+    "lat": 35.630833333333335,
+    "lon": 139.88472222222222,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-10-31T12:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "O1834/26",
+  "location": "RJTI",
+  "place": "URAYASU-SHI IN CHIBA",
+  "schedule": "01-04 0930/1200 05-31 0900/1200",
+  "start_utc": "2026-10-01T09:30:00+00:00",
+  "text": "(O1834/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/009/3538N13953E001\nA)RJTI B)2610010930 C)2610311200\nD)01-04 0930/1200 05-31 0900/1200\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 353751N1395305E\n(URAYASU-SHI IN CHIBA)\nF)GND G)821FT AGL)",
+  "upper_ft": 821,
+  "upper_ref": "AGL"
+ },
+ "O1978/26": {
+  "areas": [
+   {
+    "lat": 25.828055555555554,
+    "lon": 131.23055555555555,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-10-31T12:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "O1978/26",
+  "location": "ROMD",
+  "place": "SHIMAJIRI-GUN IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-10-31T11:30:00+00:00",
+  "text": "(O1978/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/2550N13114E001\nA)ROMD B)2610311130 C)2610311230\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 254941N1311350E\n(SHIMAJIRI-GUN IN OKINAWA)\nF)GND G)722FT AGL)",
+  "upper_ft": 722,
+  "upper_ref": "AGL"
+ },
+ "O2002/26": {
+  "areas": [
+   {
+    "lat": 35.630833333333335,
+    "lon": 139.88472222222222,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-30T12:00:00+00:00",
+  "first_seen": "2026-10-24",
+  "id": "O2002/26",
+  "location": "RJTI",
+  "place": "URAYASU-SHI IN CHIBA",
+  "schedule": "0900/1200",
+  "start_utc": "2026-11-01T09:00:00+00:00",
+  "text": "FROM 2026/11/01 09:00 To 2026/11/30 12:00\n230336 RJAAYNYX\n(O2002/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/009/3538N13953E001\nA)RJTI B)2611010900 C)2611301200\nD)0900/1200\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 353751N1395305E\n(URAYASU-SHI IN CHIBA)\nF)GND G)821FT AGL)",
+  "upper_ft": 821,
+  "upper_ref": "AGL"
+ },
+ "R1128/26": {
+  "areas": [
+   {
+    "lat": 35.091944444444444,
+    "lon": 139.07861111111112,
+    "radius_m": 140.0
+   }
+  ],
+  "end_utc": "2026-10-25T11:45:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1128/26",
+  "location": "RJJJ",
+  "place": "ATAMI-SHI IN SHIZUOKA",
+  "schedule": "12 25 1120/1145",
+  "start_utc": "2026-10-12T11:20:00+00:00",
+  "text": "(R1128/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/016/3506N13905E001\nA)RJJJ B)2610121120 C)2610251145\nD)12 25 1120/1145\nE)FIREWORKS:\nPLACE: RADIUS 140M CENTER 350531N1390443E\n(ATAMI-SHI IN SHIZUOKA)\nF)GND G)1543FT AGL)",
+  "upper_ft": 1543,
+  "upper_ref": "AGL"
+ },
+ "R1417/26": {
+  "areas": [
+   {
+    "lat": 35.091944444444444,
+    "lon": 139.07861111111112,
+    "radius_m": 140.0
+   }
+  ],
+  "end_utc": "2026-11-23T11:45:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1417/26",
+  "location": "RJJJ",
+  "place": "ATAMI-SHI IN SHIZUOKA",
+  "schedule": "08 23 1120/1145",
+  "start_utc": "2026-11-08T11:20:00+00:00",
+  "text": "FROM 2026/11/08 11:20 To 2026/11/23 11:45\n250750 RJAAYNYX\n(R1417/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/016/3506N13905E001\nA)RJJJ B)2611081120 C)2611231145\nD)08 23 1120/1145\nE)FIREWORKS:\nPLACE: RADIUS 140M CENTER 350531N1390443E\n(ATAMI-SHI IN SHIZUOKA)\nF)GND G)1543FT AGL)",
+  "upper_ft": 1543,
+  "upper_ref": "AGL"
+ },
+ "R1565/26": {
+  "areas": [
+   {
+    "lat": 31.53805555555556,
+    "lon": 130.555,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-10T10:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1565/26",
+  "location": "RJJJ",
+  "place": "KAGOSHIMA-SHI",
+  "schedule": "14 23 NOV 01 10 0930/1030",
+  "start_utc": "2026-10-14T09:30:00+00:00",
+  "text": "FROM 2026/10/14 09:30 To 2026/11/10 10:30\n160614 RJAAYNYX\n(R1565/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/007/3132N13033E001\nA)RJJJ B)2610140930 C)2611101030\nD)14 23 NOV 01 10 0930/1030\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 313217N1303318E\n(KAGOSHIMA-SHI)\nF)GND G)690FT AGL)",
+  "upper_ft": 690,
+  "upper_ref": "AGL"
+ },
+ "R1571/26": {
+  "areas": [
+   {
+    "lat": 35.01111111111111,
+    "lon": 135.55333333333334,
+    "radius_m": 75.0
+   }
+  ],
+  "end_utc": "2026-11-07T11:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1571/26",
+  "location": "RJJJ",
+  "place": "KAMEOKA-SHI IN KYOTO",
+  "schedule": "",
+  "start_utc": "2026-11-07T09:00:00+00:00",
+  "text": "FROM 2026/11/07 09:00 To 2026/11/07 11:00\n170049 RJAAYNYX\n(R1571/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/010/3501N13533E001\nA)RJJJ B)2611070900 C)2611071100\nE)FIREWORKS:\nPLACE: RADIUS 75M CENTER 350040N1353312E\n(KAMEOKA-SHI IN KYOTO)\nF)GND G)903FT AGL)",
+  "upper_ft": 903,
+  "upper_ref": "AGL"
+ },
+ "R1642/26": {
+  "areas": [
+   {
+    "lat": 37.088055555555556,
+    "lon": 140.4102777777778,
+    "radius_m": 160.0
+   }
+  ],
+  "end_utc": "2026-11-03T09:45:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1642/26",
+  "location": "RJJJ",
+  "place": "ISHIKAWA-GUN IN FUKUSHIMA",
+  "schedule": "",
+  "start_utc": "2026-11-03T08:45:00+00:00",
+  "text": "(R1642/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/011/3705N14025E001\nA)RJJJ B)2611030845 C)2611030945\nE)FIREWORKS:\nPLACE: RADIUS 160M CENTER 370517N1402437E\n(ISHIKAWA-GUN IN FUKUSHIMA)\nF)GND G)1083FT AGL)",
+  "upper_ft": 1083,
+  "upper_ref": "AGL"
+ },
+ "R1644/26": {
+  "areas": [
+   {
+    "lat": 34.973055555555554,
+    "lon": 139.10305555555556,
+    "radius_m": 80.0
+   }
+  ],
+  "end_utc": "2026-11-07T11:50:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1644/26",
+  "location": "RJJJ",
+  "place": "ITO-SHI IN SHIZUOKA",
+  "schedule": "",
+  "start_utc": "2026-11-07T11:30:00+00:00",
+  "text": "FROM 2026/11/07 11:30 To 2026/11/07 11:50\n250134 RJAAYNYX\n(R1644/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/010/3458N13906E001\nA)RJJJ B)2611071130 C)2611071150\nE)FIREWORKS:\nPLACE: RADIUS 80M CENTER 345823N1390611E\n(ITO-SHI IN SHIZUOKA)\nF)GND G)919FT AGL)",
+  "upper_ft": 919,
+  "upper_ref": "AGL"
+ },
+ "R1676/26": {
+  "areas": [
+   {
+    "lat": 37.42861111111111,
+    "lon": 138.7497222222222,
+    "radius_m": 55.0
+   }
+  ],
+  "end_utc": "2026-10-24T09:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1676/26",
+  "location": "RJJJ",
+  "place": "NAGAOKA-SHI IN NIIGATA",
+  "schedule": "",
+  "start_utc": "2026-10-24T09:00:00+00:00",
+  "text": "(R1676/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/008/3726N13845E001\nA)RJJJ B)2610240900 C)2610240930\nE)FIREWORKS:\nPLACE: RADIUS 55M CENTER 372543N1384459E\n(NAGAOKA-SHI IN NIIGATA)\nF)GND G)706FT AGL)",
+  "upper_ft": 706,
+  "upper_ref": "AGL"
+ },
+ "R1677/26": {
+  "areas": [
+   {
+    "lat": 35.98555555555556,
+    "lon": 140.46916666666667,
+    "radius_m": 160.0
+   }
+  ],
+  "end_utc": "2026-10-24T11:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1677/26",
+  "location": "RJJJ",
+  "place": "NAMEGATA-SHI IN IBARAKI",
+  "schedule": "",
+  "start_utc": "2026-10-24T10:00:00+00:00",
+  "text": "(R1677/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/017/3559N14028E001\nA)RJJJ B)2610241000 C)2610241100\nE)FIREWORKS:\nPLACE: RADIUS 160M CENTER 355908N1402809E\n(NAMEGATA-SHI IN IBARAKI)\nF)GND G)1625FT AGL)",
+  "upper_ft": 1625,
+  "upper_ref": "AGL"
+ },
+ "R1753/26": {
+  "areas": [
+   {
+    "lat": 36.533055555555556,
+    "lon": 136.72166666666666,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-01T10:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1753/26",
+  "location": "RJJJ",
+  "place": "KANAZAWA-SHI IN ISHIKAWA",
+  "schedule": "",
+  "start_utc": "2026-11-01T10:00:00+00:00",
+  "text": "(R1753/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/007/3632N13643E001\nA)RJJJ B)2611011000 C)2611011030\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 363159N1364318E\n(KANAZAWA-SHI IN ISHIKAWA)\nF)GND G)690FT AGL)",
+  "upper_ft": 690,
+  "upper_ref": "AGL"
+ },
+ "R1757/26": {
+  "areas": [
+   {
+    "lat": 34.62,
+    "lon": 136.22694444444446,
+    "radius_m": 120.0
+   }
+  ],
+  "end_utc": "2026-10-24T11:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1757/26",
+  "location": "RJJJ",
+  "place": "IGA-SHI IN MI E",
+  "schedule": "",
+  "start_utc": "2026-10-24T09:00:00+00:00",
+  "text": "(R1757/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/012/3437N13614E001\nA)RJJJ B)2610240900 C)2610241100\nE)FIREWORKS:\nPLACE: RADIUS 120M CENTER 343712N1361337E\n(IGA-SHI IN MI\nE)\nF)GND G)1182FT AGL)",
+  "upper_ft": 1182,
+  "upper_ref": "AGL"
+ },
+ "R1758/26": {
+  "areas": [
+   {
+    "lat": 26.5075,
+    "lon": 127.85694444444444,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-10-30T12:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1758/26",
+  "location": "RJJJ",
+  "place": "KUNIGAMI-GUN IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-10-30T10:00:00+00:00",
+  "text": "(R1758/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/008/2630N12751E001\nA)RJJJ B)2610301000 C)2610301200\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 263027N1275125E\n(KUNIGAMI-GUN IN OKINAWA)\nF)GND G)722FT AGL)",
+  "upper_ft": 722,
+  "upper_ref": "AGL"
+ },
+ "R1761/26": {
+  "areas": [
+   {
+    "lat": 34.73111111111111,
+    "lon": 134.27833333333334,
+    "radius_m": 75.0
+   }
+  ],
+  "end_utc": "2026-10-31T10:25:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1761/26",
+  "location": "RJJJ",
+  "place": "BIZEN-SHI IN OKAYAMA",
+  "schedule": "",
+  "start_utc": "2026-10-31T10:00:00+00:00",
+  "text": "(R1761/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/010/3444N13417E001\nA)RJJJ B)2610311000 C)2610311025\nE)FIREWORKS:\nPLACE: RADIUS 75M CENTER 344352N1341642E\n(BIZEN-SHI IN OKAYAMA)\nF)GND G)903FT AGL)",
+  "upper_ft": 903,
+  "upper_ref": "AGL"
+ },
+ "R1762/26": {
+  "areas": [
+   {
+    "lat": 33.48527777777778,
+    "lon": 132.35027777777776,
+    "radius_m": 140.0
+   }
+  ],
+  "end_utc": "2026-11-01T12:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1762/26",
+  "location": "RJJJ",
+  "place": "NISHIUWA-GUN IN EHIM E",
+  "schedule": "",
+  "start_utc": "2026-11-01T09:00:00+00:00",
+  "text": "(R1762/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/014/3329N13221E001\nA)RJJJ B)2611010900 C)2611011200\nE)FIREWORKS:\nPLACE: RADIUS 140M CENTER 332907N1322101E\n(NISHIUWA-GUN IN EHIM\nE)\nF)GND G)1379FT AGL)",
+  "upper_ft": 1379,
+  "upper_ref": "AGL"
+ },
+ "R1763/26": {
+  "areas": [
+   {
+    "lat": 35.22944444444445,
+    "lon": 132.95527777777778,
+    "radius_m": 150.0
+   }
+  ],
+  "end_utc": "2026-11-07T12:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1763/26",
+  "location": "RJJJ",
+  "place": "UNNAN-SHI IN SHIMANE",
+  "schedule": "",
+  "start_utc": "2026-11-07T09:00:00+00:00",
+  "text": "FROM 2026/11/07 09:00 To 2026/11/07 12:00\n120000 RJAAYNYX\n(R1763/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/016/3514N13257E001\nA)RJJJ B)2611070900 C)2611071200\nE)FIREWORKS:\nPLACE: RADIUS 150M CENTER 351346N1325719E\n(UNNAN-SHI IN SHIMANE)\nF)GND G)1543FT AGL)",
+  "upper_ft": 1543,
+  "upper_ref": "AGL"
+ },
+ "R1770/26": {
+  "areas": [
+   {
+    "lat": 36.285555555555554,
+    "lon": 140.42888888888888,
+    "radius_m": 140.0
+   }
+  ],
+  "end_utc": "2026-11-01T09:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1770/26",
+  "location": "RJJJ",
+  "place": "HIGASHIIBARAKI-GUN IN IBARAKI",
+  "schedule": "",
+  "start_utc": "2026-11-01T09:00:00+00:00",
+  "text": "(R1770/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/010/3617N14026E001\nA)RJJJ B)2611010900 C)2611010930\nE)FIREWORKS:\nPLACE: RADIUS 140M CENTER 361708N1402544E\n(HIGASHIIBARAKI-GUN IN IBARAKI)\nF)GND G)985FT AGL)",
+  "upper_ft": 985,
+  "upper_ref": "AGL"
+ },
+ "R1777/26": {
+  "areas": [
+   {
+    "lat": 34.45944444444445,
+    "lon": 132.7838888888889,
+    "radius_m": 100.0
+   }
+  ],
+  "end_utc": "2026-10-24T11:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1777/26",
+  "location": "RJJJ",
+  "place": "HIGASHIHIROSHIMA-SHI IN HIROSHIMA",
+  "schedule": "",
+  "start_utc": "2026-10-24T09:00:00+00:00",
+  "text": "(R1777/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/012/3428N13247E001\nA)RJJJ B)2610240900 C)2610241130\nE)FIREWORKS:\nPLACE: RADIUS 100M CENTER 342734N1324702E\n(HIGASHIHIROSHIMA-SHI IN HIROSHIMA)\nF)GND G)1149FT AGL)",
+  "upper_ft": 1149,
+  "upper_ref": "AGL"
+ },
+ "R1788/26": {
+  "areas": [
+   {
+    "lat": 35.091944444444444,
+    "lon": 139.07861111111112,
+    "radius_m": 140.0
+   }
+  ],
+  "end_utc": "2026-12-25T11:45:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1788/26",
+  "location": "RJJJ",
+  "place": "ATAMI-SHI IN SHIZUOKA",
+  "schedule": "06 25 1120/1145",
+  "start_utc": "2026-12-06T11:20:00+00:00",
+  "text": "FROM 2026/12/06 11:20 To 2026/12/25 11:45\n160714 RJAAYNYX\n(R1788/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/016/3506N13905E001\nA)RJJJ B)2612061120 C)2612251145\nD)06 25 1120/1145\nE)FIREWORKS:\nPLACE: RADIUS 140M CENTER 350531N1390443E\n(ATAMI-SHI IN SHIZUOKA)\nF)GND G)1543FT AGL)",
+  "upper_ft": 1543,
+  "upper_ref": "AGL"
+ },
+ "R1800/26": {
+  "areas": [
+   {
+    "lat": 26.533055555555556,
+    "lon": 127.92944444444444,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-10-24T12:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1800/26",
+  "location": "RJJJ",
+  "place": "NAGO-SHI IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-10-24T10:00:00+00:00",
+  "text": "(R1800/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/008/2632N12756E001\nA)RJJJ B)2610241000 C)2610241230\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 263159N1275546E\n(NAGO-SHI IN OKINAWA)\nF)GND G)722FT AGL)",
+  "upper_ft": 722,
+  "upper_ref": "AGL"
+ },
+ "R1811/26": {
+  "areas": [
+   {
+    "lat": 26.589444444444442,
+    "lon": 127.97277777777778,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-02T11:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1811/26",
+  "location": "RJJJ",
+  "place": "NAGO-SHI IN OKINAWA",
+  "schedule": "22 NOV 02 1030/1130",
+  "start_utc": "2026-10-22T10:30:00+00:00",
+  "text": "(R1811/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/006/2635N12758E001\nA)RJJJ B)2610221030 C)2611021130\nD)22 NOV 02 1030/1130\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 263522N1275822E\n(NAGO-SHI IN OKINAWA)\nF)GND G)591FT AGL)",
+  "upper_ft": 591,
+  "upper_ref": "AGL"
+ },
+ "R1818/26": {
+  "areas": [
+   {
+    "lat": 24.331666666666667,
+    "lon": 124.15333333333334,
+    "radius_m": 140.0
+   }
+  ],
+  "end_utc": "2026-11-08T12:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1818/26",
+  "location": "RJJJ",
+  "place": "ISHIGAKI-SHI IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-11-08T11:30:00+00:00",
+  "text": "FROM 2026/11/08 11:30 To 2026/11/08 12:30\n210238 RJAAYNYX\n(R1818/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/015/2420N12409E001\nA)RJJJ B)2611081130 C)2611081230\nE)FIREWORKS:\nPLACE: RADIUS 140M CENTER 241954N1240912E\n(ISHIGAKI-SHI IN OKINAWA)\nF)GND G)1477FT AGL)",
+  "upper_ft": 1477,
+  "upper_ref": "AGL"
+ },
+ "R1820/26": {
+  "areas": [
+   {
+    "lat": 26.5075,
+    "lon": 127.85694444444444,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-13T12:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1820/26",
+  "location": "RJJJ",
+  "place": "KUNIGAMI-GUN IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-11-13T10:00:00+00:00",
+  "text": "FROM 2026/11/13 10:00 To 2026/11/13 12:00\n210316 RJAAYNYX\n(R1820/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/008/2630N12751E001\nA)RJJJ B)2611131000 C)2611131200\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 263027N1275125E\n(KUNIGAMI-GUN IN OKINAWA)\nF)GND G)722FT AGL)",
+  "upper_ft": 722,
+  "upper_ref": "AGL"
+ },
+ "R1821/26": {
+  "areas": [
+   {
+    "lat": 26.272499999999997,
+    "lon": 127.71722222222222,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-14T12:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1821/26",
+  "location": "RJJJ",
+  "place": "URASOE-SHI IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-11-14T10:00:00+00:00",
+  "text": "FROM 2026/11/14 10:00 To 2026/11/14 12:00\n210318 RJAAYNYX\n(R1821/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/008/2616N12743E001\nA)RJJJ B)2611141000 C)2611141200\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 261621N1274302E\n(URASOE-SHI IN OKINAWA)\nF)GND G)706FT AGL)",
+  "upper_ft": 706,
+  "upper_ref": "AGL"
+ },
+ "R1822/26": {
+  "areas": [
+   {
+    "lat": 26.17138888888889,
+    "lon": 127.79055555555556,
+    "radius_m": 30.0
+   }
+  ],
+  "end_utc": "2026-11-01T00:30:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1822/26",
+  "location": "RJJJ",
+  "place": "NANJO-SHI IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-11-01T00:00:00+00:00",
+  "text": "(R1822/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/005/2610N12747E001\nA)RJJJ B)2611010000 C)2611010030\nE)FIREWORKS:\nPLACE: RADIUS 30M CENTER 261017N1274726E\n(NANJO-SHI IN OKINAWA)\nF)GND G)493FT AGL)",
+  "upper_ft": 493,
+  "upper_ref": "AGL"
+ },
+ "R1823/26": {
+  "areas": [
+   {
+    "lat": 26.166666666666668,
+    "lon": 127.7675,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-15T13:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1823/26",
+  "location": "RJJJ",
+  "place": "NANJO-SHI IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-11-15T11:00:00+00:00",
+  "text": "FROM 2026/11/15 11:00 To 2026/11/15 13:00\n210332 RJAAYNYX\n(R1823/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/006/2610N12746E001\nA)RJJJ B)2611151100 C)2611151300\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 261000N1274603E\n(NANJO-SHI IN OKINAWA)\nF)GND G)558FT AGL)",
+  "upper_ft": 558,
+  "upper_ref": "AGL"
+ },
+ "R1825/26": {
+  "areas": [
+   {
+    "lat": 34.24166666666667,
+    "lon": 132.46805555555557,
+    "radius_m": 140.0
+   }
+  ],
+  "end_utc": "2026-10-31T12:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1825/26",
+  "location": "RJJJ",
+  "place": "ETAJIMA-SHI IN HIROSHIMA",
+  "schedule": "",
+  "start_utc": "2026-10-31T07:30:00+00:00",
+  "text": "(R1825/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/015/3415N13228E001\nA)RJJJ B)2610310730 C)2610311200\nE)FIREWORKS:\nPLACE: RADIUS 140M CENTER 341430N1322805E\n(ETAJIMA-SHI IN HIROSHIMA)\nF)GND G)1444FT AGL)",
+  "upper_ft": 1444,
+  "upper_ref": "AGL"
+ },
+ "R1827/26": {
+  "areas": [
+   {
+    "lat": 34.776666666666664,
+    "lon": 137.09222222222223,
+    "radius_m": 200.0
+   }
+  ],
+  "end_utc": "2026-10-31T12:00:00+00:00",
+  "first_seen": "2026-10-21",
+  "id": "R1827/26",
+  "location": "RJJJ",
+  "place": "NISHIO-SHI IN AICHI",
+  "schedule": "",
+  "start_utc": "2026-10-31T10:00:00+00:00",
+  "text": "(R1827/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/010/3447N13706E001\nA)RJJJ B)2610311000 C)2610311200\nE)FIREWORKS:\nPLACE: RADIUS 200M CENTER 344636N1370532E\n(NISHIO-SHI IN AICHI)\nF)GND G)952FT AGL)",
+  "upper_ft": 952,
+  "upper_ref": "AGL"
+ },
+ "R1831/26": {
+  "areas": [
+   {
+    "lat": 34.76583333333333,
+    "lon": 137.34194444444447,
+    "radius_m": 125.0
+   }
+  ],
+  "end_utc": "2026-10-24T13:00:00+00:00",
+  "first_seen": "2026-10-24",
+  "id": "R1831/26",
+  "location": "RJJJ",
+  "place": "TOYOHASHI-SHI IN AICHI",
+  "schedule": "23 2100/2300 24 0200/0400 0900/1300",
+  "start_utc": "2026-10-23T21:00:00+00:00",
+  "text": "(R1831/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/014/3446N13721E001\nA)RJJJ B)2610232100 C)2610241300\nD)23 2100/2300 24 0200/0400 0900/1300\nE)FIREWORKS:\nPLACE: RADIUS 125M CENTER 344557N1372031E\n(TOYOHASHI-SHI IN AICHI)\nF)GND G)1329FT AGL)",
+  "upper_ft": 1329,
+  "upper_ref": "AGL"
+ },
+ "R1832/26": {
+  "areas": [
+   {
+    "lat": 34.76583333333333,
+    "lon": 137.34194444444447,
+    "radius_m": 50.0
+   }
+  ],
+  "end_utc": "2026-10-25T04:00:00+00:00",
+  "first_seen": "2026-10-24",
+  "id": "R1832/26",
+  "location": "RJJJ",
+  "place": "TOYOHASHI-SHI IN AICHI",
+  "schedule": "24 2100/2300 25 0200/0400",
+  "start_utc": "2026-10-24T21:00:00+00:00",
+  "text": "(R1832/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/006/3446N13721E001\nA)RJJJ B)2610242100 C)2610250400\nD)24 2100/2300 25 0200/0400\nE)FIREWORKS:\nPLACE: RADIUS 50M CENTER 344557N1372031E\n(TOYOHASHI-SHI IN AICHI)\nF)GND G)558FT AGL)",
+  "upper_ft": 558,
+  "upper_ref": "AGL"
+ },
+ "R1860/26": {
+  "areas": [
+   {
+    "lat": 34.75861111111111,
+    "lon": 137.3211111111111,
+    "radius_m": 65.0
+   }
+  ],
+  "end_utc": "2026-11-07T10:00:00+00:00",
+  "first_seen": "2026-10-29",
+  "id": "R1860/26",
+  "location": "RJJJ",
+  "place": "TOYOHASHI-SHI IN AICHI",
+  "schedule": "",
+  "start_utc": "2026-11-07T08:30:00+00:00",
+  "text": "FROM 2026/11/07 08:30 To 2026/11/07 10:00\n252351 RJAAYNYX\n(R1860/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/008/3446N13719E001\nA)RJJJ B)2611070830 C)2611071000\nE)FIREWORKS:\nPLACE: RADIUS 65M CENTER 344531N1371916E\n(TOYOHASHI-SHI IN AICHI)\nF)GND G)739FT AGL)",
+  "upper_ft": 739,
+  "upper_ref": "AGL"
+ },
+ "R1866/26": {
+  "areas": [
+   {
+    "lat": 26.5775,
+    "lon": 127.23388888888888,
+    "radius_m": 160.0
+   }
+  ],
+  "end_utc": "2026-11-08T12:30:00+00:00",
+  "first_seen": "2026-10-29",
+  "id": "R1866/26",
+  "location": "RJJJ",
+  "place": "SHIMAJIRI-GUN IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-11-08T11:00:00+00:00",
+  "text": "FROM 2026/11/08 11:00 To 2026/11/08 12:30\n260358 RJAAYNYX\n(R1866/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/017/2635N12714E001\nA)RJJJ B)2611081100 C)2611081230\nE)FIREWORKS:\nPLACE: RADIUS 160M CENTER 263439N1271402E\n(SHIMAJIRI-GUN IN OKINAWA)\nF)GND G)1608FT AGL)",
+  "upper_ft": 1608,
+  "upper_ref": "AGL"
+ },
+ "R1867/26": {
+  "areas": [
+   {
+    "lat": 26.62666666666667,
+    "lon": 127.9738888888889,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-22T12:00:00+00:00",
+  "first_seen": "2026-10-29",
+  "id": "R1867/26",
+  "location": "RJJJ",
+  "place": "NAGO-SHI IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-11-22T10:00:00+00:00",
+  "text": "FROM 2026/11/22 10:00 To 2026/11/22 12:00\n260410 RJAAYNYX\n(R1867/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/008/2638N12758E001\nA)RJJJ B)2611221000 C)2611221200\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 263736N1275826E\n(NAGO-SHI IN OKINAWA)\nF)GND G)722FT AGL)",
+  "upper_ft": 722,
+  "upper_ref": "AGL"
+ },
+ "R1873/26": {
+  "areas": [
+   {
+    "lat": 34.977222222222224,
+    "lon": 138.90472222222223,
+    "radius_m": 75.0
+   }
+  ],
+  "end_utc": "2026-11-28T10:50:00+00:00",
+  "first_seen": "2026-10-29",
+  "id": "R1873/26",
+  "location": "RJJJ",
+  "place": "IZU-SHI IN SHIZUOKA",
+  "schedule": "",
+  "start_utc": "2026-11-28T10:30:00+00:00",
+  "text": "FROM 2026/11/28 10:30 To 2026/11/28 10:50\n270354 RJAAYNYX\n(R1873/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/012/3459N13854E001\nA)RJJJ B)2611281030 C)2611281050\nE)FIREWORKS:\nPLACE: RADIUS 75M CENTER 345838N1385417E\n(IZU-SHI IN SHIZUOKA)\nF)GND G)1149FT AGL)",
+  "upper_ft": 1149,
+  "upper_ref": "AGL"
+ },
+ "R1874/26": {
+  "areas": [
+   {
+    "lat": 36.686388888888885,
+    "lon": 139.1011111111111,
+    "radius_m": 150.0
+   }
+  ],
+  "end_utc": "2026-11-03T11:00:00+00:00",
+  "first_seen": "2026-10-29",
+  "id": "R1874/26",
+  "location": "RJJJ",
+  "place": "TONE-GUN IN GUNMA",
+  "schedule": "",
+  "start_utc": "2026-11-03T10:00:00+00:00",
+  "text": "(R1874/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/015/3641N13906E001\nA)RJJJ B)2611031000 C)2611031100\nE)FIREWORKS:\nPLACE: RADIUS 150M CENTER 364111N1390604E\n(TONE-GUN IN GUNMA)\nF)GND G)1477FT AGL)",
+  "upper_ft": 1477,
+  "upper_ref": "AGL"
+ },
+ "R1882/26": {
+  "areas": [
+   {
+    "lat": 36.33833333333334,
+    "lon": 140.60333333333332,
+    "radius_m": 140.0
+   }
+  ],
+  "end_utc": "2026-10-31T10:00:00+00:00",
+  "first_seen": "2026-10-29",
+  "id": "R1882/26",
+  "location": "RJJJ",
+  "place": "HITACHINAKA-SHI IN IBARAKI",
+  "schedule": "",
+  "start_utc": "2026-10-31T09:00:00+00:00",
+  "text": "(R1882/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/015/3620N14036E001\nA)RJJJ B)2610310900 C)2610311000\nE)FIREWORKS:\nPLACE: RADIUS 140M CENTER 362018N1403612E\n(HITACHINAKA-SHI IN IBARAKI)\nF)GND G)1477FT AGL)",
+  "upper_ft": 1477,
+  "upper_ref": "AGL"
+ },
+ "R1883/26": {
+  "areas": [
+   {
+    "lat": 40.84305555555556,
+    "lon": 140.82305555555556,
+    "radius_m": 65.0
+   }
+  ],
+  "end_utc": "2026-11-01T08:30:00+00:00",
+  "first_seen": "2026-10-29",
+  "id": "R1883/26",
+  "location": "RJJJ",
+  "place": "AOMORI-SHI",
+  "schedule": "",
+  "start_utc": "2026-11-01T07:30:00+00:00",
+  "text": "(R1883/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/008/4051N14049E001\nA)RJJJ B)2611010730 C)2611010830\nE)FIREWORKS:\nPLACE: RADIUS 65M CENTER 405035N1404923E\n(AOMORI-SHI)\nF)GND G)739FT AGL)",
+  "upper_ft": 739,
+  "upper_ref": "AGL"
+ },
+ "R1884/26": {
+  "areas": [
+   {
+    "lat": 36.04972222222222,
+    "lon": 139.2072222222222,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-02T11:00:00+00:00",
+  "first_seen": "2026-10-29",
+  "id": "R1884/26",
+  "location": "RJJJ",
+  "place": "CHICHIBU-GUN IN SAITAMA",
+  "schedule": "",
+  "start_utc": "2026-11-02T10:00:00+00:00",
+  "text": "(R1884/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/009/3603N13912E001\nA)RJJJ B)2611021000 C)2611021100\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 360259N1391226E\n(CHICHIBU-GUN IN SAITAMA)\nF)GND G)886FT AGL)",
+  "upper_ft": 886,
+  "upper_ref": "AGL"
+ },
+ "R1889/26": {
+  "areas": [
+   {
+    "lat": 38.671388888888885,
+    "lon": 139.8727777777778,
+    "radius_m": 140.0
+   }
+  ],
+  "end_utc": "2026-11-23T12:00:00+00:00",
+  "first_seen": "2026-10-29",
+  "id": "R1889/26",
+  "location": "RJJJ",
+  "place": "TSURUOKA-SHI IN YAMAGATA",
+  "schedule": "",
+  "start_utc": "2026-11-23T08:00:00+00:00",
+  "text": "FROM 2026/11/23 08:00 To 2026/11/23 12:00\n280133 RJAAYNYX\n(R1889/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/011/3840N13952E001\nA)RJJJ B)2611230800 C)2611231200\nE)FIREWORKS:\nPLACE: RADIUS 140M CENTER 384017N1395222E\n(TSURUOKA-SHI IN YAMAGATA)\nF)GND G)1050FT AGL)",
+  "upper_ft": 1050,
+  "upper_ref": "AGL"
+ },
+ "R1893/26": {
+  "areas": [
+   {
+    "lat": 33.450833333333335,
+    "lon": 133.44972222222222,
+    "radius_m": 200.0
+   }
+  ],
+  "end_utc": "2026-11-14T12:00:00+00:00",
+  "first_seen": "2026-10-29",
+  "id": "R1893/26",
+  "location": "RJJJ",
+  "place": "TOSA-SHI IN KOCHI",
+  "schedule": "",
+  "start_utc": "2026-11-14T11:00:00+00:00",
+  "text": "FROM 2026/11/14 11:00 To 2026/11/14 12:00\n280332 RJAAYNYX\n(R1893/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/018/3327N13327E001\nA)RJJJ B)2611141100 C)2611141200\nE)FIREWORKS:\nPLACE: RADIUS 200M CENTER 332703N1332659E\n(TOSA-SHI IN KOCHI)\nF)GND G)1772FT AGL)",
+  "upper_ft": 1772,
+  "upper_ref": "AGL"
+ },
+ "R1901/26": {
+  "areas": [
+   {
+    "lat": 32.97277777777778,
+    "lon": 130.6063888888889,
+    "radius_m": 100.0
+   }
+  ],
+  "end_utc": "2026-10-31T12:00:00+00:00",
+  "first_seen": "2026-10-29",
+  "id": "R1901/26",
+  "location": "RJJJ",
+  "place": "TAMANA-GUN IN KUMAMOTO",
+  "schedule": "",
+  "start_utc": "2026-10-31T11:00:00+00:00",
+  "text": "(R1901/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/011/3258N13036E001\nA)RJJJ B)2610311100 C)2610311200\nE)FIREWORKS:\nPLACE: RADIUS 100M CENTER 325822N1303623E\n(TAMANA-GUN IN KUMAMOTO)\nF)GND G)1018FT AGL)",
+  "upper_ft": 1018,
+  "upper_ref": "AGL"
+ },
+ "R1907/26": {
+  "areas": [
+   {
+    "lat": 31.452222222222222,
+    "lon": 131.22666666666666,
+    "radius_m": 120.0
+   }
+  ],
+  "end_utc": "2026-11-07T11:15:00+00:00",
+  "first_seen": "2026-10-29",
+  "id": "R1907/26",
+  "location": "RJJJ",
+  "place": "KUSHIMA-SHI IN MIYAZAKI",
+  "schedule": "",
+  "start_utc": "2026-11-07T10:15:00+00:00",
+  "text": "FROM 2026/11/07 10:15 To 2026/11/07 11:15\n290046 RJAAYNYX\n(R1907/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/013/3127N13114E001\nA)RJJJ B)2611071015 C)2611071115\nE)FIREWORKS:\nPLACE: RADIUS 120M CENTER 312708N1311336E\n(KUSHIMA-SHI IN MIYAZAKI)\nF)GND G)1214FT AGL)",
+  "upper_ft": 1214,
+  "upper_ref": "AGL"
+ },
+ "R1916/26": {
+  "areas": [
+   {
+    "lat": 42.97638888888889,
+    "lon": 143.1811111111111,
+    "radius_m": 50.0
+   }
+  ],
+  "end_utc": "2026-12-12T10:30:00+00:00",
+  "first_seen": "2026-11-03",
+  "id": "R1916/26",
+  "location": "RJJJ",
+  "place": "KATO-GUN IN HOKKAIDO",
+  "schedule": "",
+  "start_utc": "2026-12-12T10:00:00+00:00",
+  "text": "FROM 2026/12/12 10:00 To 2026/12/12 10:30\n300131 RJAAYNYX\n(R1916/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/006/4259N14311E001\nA)RJJJ B)2612121000 C)2612121030\nE)FIREWORKS:\nPLACE: RADIUS 50M CENTER 425835N1431052E\n(KATO-GUN IN HOKKAIDO)\nF)GND G)558FT AGL)",
+  "upper_ft": 558,
+  "upper_ref": "AGL"
+ },
+ "R1933/26": {
+  "areas": [
+   {
+    "lat": 35.0125,
+    "lon": 135.87694444444446,
+    "radius_m": 160.0
+   }
+  ],
+  "end_utc": "2026-11-04T12:00:00+00:00",
+  "first_seen": "2026-11-03",
+  "id": "R1933/26",
+  "location": "RJJJ",
+  "place": "OTSU-SHI IN SHIGA",
+  "schedule": "",
+  "start_utc": "2026-11-04T08:00:00+00:00",
+  "text": "(R1933/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/017/3501N13553E001\nA)RJJJ B)2611040800 C)2611041200\nE)FIREWORKS:\nPLACE: RADIUS 160M CENTER 350045N1355237E\n(OTSU-SHI IN SHIGA)\nF)GND G)1608FT AGL)",
+  "upper_ft": 1608,
+  "upper_ref": "AGL"
+ },
+ "R1941/26": {
+  "areas": [
+   {
+    "lat": 26.533055555555556,
+    "lon": 127.92944444444444,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-07T12:30:00+00:00",
+  "first_seen": "2026-11-04",
+  "id": "R1941/26",
+  "location": "RJJJ",
+  "place": "NAGO-SHI IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-11-07T10:00:00+00:00",
+  "text": "FROM 2026/11/07 10:00 To 2026/11/07 12:30\n030831 RJAAYNYX\n(R1941/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/008/2632N12756E001\nA)RJJJ B)2611071000 C)2611071230\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 263159N1275546E\n(NAGO-SHI IN OKINAWA)\nF)GND G)722FT AGL)",
+  "upper_ft": 722,
+  "upper_ref": "AGL"
+ },
+ "R1946/26": {
+  "areas": [
+   {
+    "lat": 34.977222222222224,
+    "lon": 138.90472222222223,
+    "radius_m": 75.0
+   }
+  ],
+  "end_utc": "2026-11-22T10:50:00+00:00",
+  "first_seen": "2026-11-04",
+  "id": "R1946/26",
+  "location": "RJJJ",
+  "place": "IZU-SHI IN SHIZUOKA",
+  "schedule": "14 22 1030/1050",
+  "start_utc": "2026-11-14T10:30:00+00:00",
+  "text": "FROM 2026/11/14 10:30 To 2026/11/22 10:50\n040727 RJAAYNYX\n(R1946/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/012/3459N13854E001\nA)RJJJ B)2611141030 C)2611221050\nD)14 22 1030/1050\nE)FIREWORKS:\nPLACE: RADIUS 75M CENTER 345838N1385417E\n(IZU-SHI IN SHIZUOKA)\nF)GND G)1149FT AGL)",
+  "upper_ft": 1149,
+  "upper_ref": "AGL"
+ },
+ "R1947/26": {
+  "areas": [
+   {
+    "lat": 34.973055555555554,
+    "lon": 139.10305555555556,
+    "radius_m": 75.0
+   }
+  ],
+  "end_utc": "2026-12-05T11:20:00+00:00",
+  "first_seen": "2026-11-04",
+  "id": "R1947/26",
+  "location": "RJJJ",
+  "place": "ITO-SHI IN SHIZUOKA",
+  "schedule": "0900/0910 1100/1120",
+  "start_utc": "2026-12-05T09:00:00+00:00",
+  "text": "FROM 2026/12/05 09:00 To 2026/12/05 11:20\n040728 RJAAYNYX\n(R1947/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/010/3458N13906E001\nA)RJJJ B)2612050900 C)2612051120\nD)0900/0910 1100/1120\nE)FIREWORKS:\nPLACE: RADIUS 75M CENTER 345823N1390611E\n(ITO-SHI IN SHIZUOKA)\nF)GND G)919FT AGL)",
+  "upper_ft": 919,
+  "upper_ref": "AGL"
+ },
+ "R1952/26": {
+  "areas": [
+   {
+    "lat": 34.973055555555554,
+    "lon": 139.10305555555556,
+    "radius_m": 75.0
+   }
+  ],
+  "end_utc": "2026-12-19T12:00:00+00:00",
+  "first_seen": "2026-11-07",
+  "id": "R1952/26",
+  "location": "RJJJ",
+  "place": "ITO-SHI IN SHIZUOKA",
+  "schedule": "",
+  "start_utc": "2026-12-19T11:30:00+00:00",
+  "text": "FROM 2026/12/19 11:30 To 2026/12/19 12:00\n050233 RJAAYNYX\n(R1952/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/010/3458N13906E001\nA)RJJJ B)2612191130 C)2612191200\nE)FIREWORKS:\nPLACE: RADIUS 75M CENTER 345823N1390611E\n(ITO-SHI IN SHIZUOKA)\nF)GND G)919FT AGL)",
+  "upper_ft": 919,
+  "upper_ref": "AGL"
+ },
+ "R1957/26": {
+  "areas": [
+   {
+    "lat": 36.095555555555556,
+    "lon": 139.95999999999998,
+    "radius_m": 160.0
+   }
+  ],
+  "end_utc": "2026-12-12T11:30:00+00:00",
+  "first_seen": "2026-11-07",
+  "id": "R1957/26",
+  "location": "RJJJ",
+  "place": "JOSO-SHI IN IBARAKI",
+  "schedule": "0000/0010 0300/0310 0600/0610 0800/0830 0900/1130",
+  "start_utc": "2026-12-12T00:00:00+00:00",
+  "text": "FROM 2026/12/12 00:00 To 2026/12/12 11:30\n060112 RJAAYNYX\n(R1957/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/017/3606N13958E001\nA)RJJJ B)2612120000 C)2612121130\nD)0000/0010 0300/0310 0600/0610 0800/0830\n0900/1130\nE)FIREWORKS:\nPLACE: RADIUS 160M CENTER 360544N1395736E\n(JOSO-SHI IN IBARAKI)\nF)GND G)1608FT AGL)",
+  "upper_ft": 1608,
+  "upper_ref": "AGL"
+ }
+}
