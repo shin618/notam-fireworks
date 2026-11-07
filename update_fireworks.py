@@ -29,6 +29,18 @@ FT_TO_M = 0.3048
 RADIUS_UNITS = {"M": 1.0, "KM": 1000.0, "NM": 1852.0}
 REFRESH_SECONDS = 3600
 
+# 号数: (開花高度m, 開花直径m)。hanabi-camera-sim の SHELL_TABLE と同じ目安値。
+SHELL_TABLE = {
+    2: (100, 70), 3: (130, 100), 4: (160, 130), 5: (200, 160), 6: (220, 180),
+    7: (250, 210), 8: (280, 240), 9: (300, 260), 10: (330, 280),
+    12: (380, 320), 15: (450, 400), 20: (500, 480), 25: (600, 565),
+    30: (700, 650), 35: (750, 750), 40: (800, 850),
+}
+SHELL_NAMES = {
+    10: "尺玉", 15: "尺五寸玉", 20: "二尺玉", 25: "二尺五寸玉",
+    30: "三尺玉", 35: "三尺五寸玉", 40: "四尺玉",
+}
+
 # 「E)FIREWORKS:」で始まるものだけが打上げ区域。進入方式変更などの関連 NOTAM は除外する。
 FIREWORKS_RE = re.compile(r"E\)\s*FIREWORKS")
 ID_RE = re.compile(r"\(([A-Z]\d{4}/\d{2})\s*NOTAM([NRC])(?:\s*([A-Z]\d{4}/\d{2}))?")
@@ -163,6 +175,25 @@ def format_jst(value):
   return datetime.fromisoformat(value).astimezone(JST).strftime("%Y/%m/%d %H:%M")
 
 
+def estimate_shell(record):
+  """G項の高さから最大号数の目安を返す。2号に届かなければ 0、判定できなければ None。
+
+  G項は開花の上端に近いので、「開花高度 + 開花半径」が収まる最大の号数とする。
+  """
+  if record["upper_ref"] != "AGL":
+    return None
+  upper_m = round(record["upper_ft"] * FT_TO_M)
+  shells = [
+      go for go, (altitude, diameter) in SHELL_TABLE.items()
+      if altitude + diameter / 2 <= upper_m
+  ]
+  return max(shells, default=0)
+
+
+def shell_label(shell):
+  return f"{shell}号" if shell else "2号未満"
+
+
 def build_description(record):
   period = f"{format_jst(record['start_utc'])} 〜 "
   period += format_jst(record["end_utc"]) if record["end_utc"] else "未定"
@@ -173,6 +204,10 @@ def build_description(record):
       "<b>半径:</b> " + ", ".join(f"{a['radius_m']:.0f}m" for a in record["areas"]),
       f"<b>初回取得日:</b> {record['first_seen']}",
   ]
+  shell = estimate_shell(record)
+  if shell is not None:
+    name = f"（{SHELL_NAMES[shell]}）" if shell in SHELL_NAMES else ""
+    rows.insert(1, f"<b>最大号数(目安):</b> {shell_label(shell)}{name}")
   if record["schedule"]:
     rows.insert(1, f"<b>時間帯(UTC):</b> {escape(record['schedule'])}")
   return "<br>".join(rows) + f"<pre>{escape(record['text'])}</pre>"
@@ -204,8 +239,10 @@ def build_kmz(year, store):
     if folder is None:
       folder = months[start.month] = kml.newfolder(name=f"{start.month:02d}月")
 
+    shell = estimate_shell(record)
+    prefix = f"{shell_label(shell)} " if shell is not None else ""
     place = folder.newmultigeometry(
-        name=f"{start:%m/%d %H:%M} {record['place'] or record['id']}"
+        name=f"{start:%m/%d %H:%M} {prefix}{record['place'] or record['id']}"
     )
     place.description = build_description(record)
     place.style = style
