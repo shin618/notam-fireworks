@@ -8,7 +8,7 @@
 - `kmz/fireworks_YYYY.kmz`: 年別の KMZ（月別フォルダ）
 - `fireworks.kml`: 全年の KMZ をまとめる親ファイル
 
-更新は 1 日 2 回（JST 06:17 / 18:17）。Actions タブの「Run workflow」で手動実行もできます。
+更新は 1 日 2 回（JST 06:00 / 18:00）。Actions タブの「Run workflow」で手動実行もできます。
 
 ## Google Earth Pro への登録
 
