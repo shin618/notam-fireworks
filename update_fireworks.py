@@ -185,8 +185,16 @@ def build_kmz(year, store):
   style.polystyle.color = "660000FF"  # 透過度40%の赤色
   style.linestyle.color = "FF0000FF"
   style.linestyle.width = 2
-  style.iconstyle.icon.href = "http://maps.google.com/mapfiles/kml/shapes/star.png"
-  style.iconstyle.color = "FF0000FF"
+  style.iconstyle.icon.href = (
+      "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+  )
+  # ピンの先端が座標を指すように、標準ピンと同じ位置を基準にする
+  style.iconstyle.hotspot = simplekml.HotSpot(
+      x=20,
+      y=2,
+      xunits=simplekml.Units.pixels,
+      yunits=simplekml.Units.pixels,
+  )
   style.labelstyle.scale = 0.7
 
   months = {}
