@@ -679,6 +679,63 @@
   "upper_ft": 722,
   "upper_ref": "AGL"
  },
+ "I6270/26": {
+  "areas": [
+   {
+    "lat": 31.34638888888889,
+    "lon": 130.81472222222223,
+    "radius_m": 50.0
+   }
+  ],
+  "end_utc": "2026-11-23T06:35:00+00:00",
+  "first_seen": "2026-11-09",
+  "id": "I6270/26",
+  "location": "RJFY",
+  "place": "KANOYA-SHI IN KAGOSHIMA",
+  "schedule": "23 0010/0015 0045/0050 0630/0635",
+  "start_utc": "2026-11-23T00:10:00+00:00",
+  "text": "FROM 2026/11/23 00:10 To 2026/11/23 06:35\n080421 RJAAYNYX\n(I6270/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/004/3121N13049E001\nA)RJFY B)2611230010 C)2611230635\nD)23 0010/0015 0045/0050 0630/0635\nE)FIREWORKS:\nPLACE: RADIUS 50M CENTER 312047N1304853E\n(KANOYA-SHI IN KAGOSHIMA)\nF)GND G)394FT AGL)",
+  "upper_ft": 394,
+  "upper_ref": "AGL"
+ },
+ "I6271/26": {
+  "areas": [
+   {
+    "lat": 26.263333333333332,
+    "lon": 127.75583333333333,
+    "radius_m": 30.0
+   }
+  ],
+  "end_utc": "2026-11-21T11:30:00+00:00",
+  "first_seen": "2026-11-09",
+  "id": "I6271/26",
+  "location": "ROTM",
+  "place": "GINOWAN-SHI IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-11-21T10:00:00+00:00",
+  "text": "FROM 2026/11/21 10:00 To 2026/11/21 11:30\n080422 RJAAYNYX\n(I6271/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/005/2616N12745E001\nA)ROTM B)2611211000 C)2611211130\nE)FIREWORKS:\nPLACE: RADIUS 30M CENTER 261548N1274521E\n(GINOWAN-SHI IN OKINAWA)\nF)GND G)493FT AGL)",
+  "upper_ft": 493,
+  "upper_ref": "AGL"
+ },
+ "I6272/26": {
+  "areas": [
+   {
+    "lat": 26.31861111111111,
+    "lon": 127.75055555555555,
+    "radius_m": 140.0
+   }
+  ],
+  "end_utc": "2026-11-20T12:00:00+00:00",
+  "first_seen": "2026-11-09",
+  "id": "I6272/26",
+  "location": "RODN",
+  "place": "NAKAGAMI-GUN IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-11-20T10:30:00+00:00",
+  "text": "FROM 2026/11/20 10:30 To 2026/11/20 12:00\n080440 RJAAYNYX\n(I6272/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/014/2619N12745E001\nA)RODN B)2611201030 C)2611201200\nE)FIREWORKS:\nPLACE: RADIUS 140M CENTER 261907N1274502E\n(NAKAGAMI-GUN IN OKINAWA)\nF)GND G)1379FT AGL)",
+  "upper_ft": 1379,
+  "upper_ref": "AGL"
+ },
  "J1927/26": {
   "areas": [
    {
@@ -2373,6 +2430,25 @@
   "start_utc": "2026-12-12T00:00:00+00:00",
   "text": "FROM 2026/12/12 00:00 To 2026/12/12 11:30\n060112 RJAAYNYX\n(R1957/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/017/3606N13958E001\nA)RJJJ B)2612120000 C)2612121130\nD)0000/0010 0300/0310 0600/0610 0800/0830\n0900/1130\nE)FIREWORKS:\nPLACE: RADIUS 160M CENTER 360544N1395736E\n(JOSO-SHI IN IBARAKI)\nF)GND G)1608FT AGL)",
   "upper_ft": 1608,
+  "upper_ref": "AGL"
+ },
+ "R1962/26": {
+  "areas": [
+   {
+    "lat": 26.5075,
+    "lon": 127.85694444444444,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-21T13:00:00+00:00",
+  "first_seen": "2026-11-09",
+  "id": "R1962/26",
+  "location": "RJJJ",
+  "place": "KUNIGAMI-GUN IN OKINAWA",
+  "schedule": "19 21 1000/1300",
+  "start_utc": "2026-11-19T10:00:00+00:00",
+  "text": "FROM 2026/11/19 10:00 To 2026/11/21 13:00\n080435 RJAAYNYX\n(R1962/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/008/2630N12751E001\nA)RJJJ B)2611191000 C)2611211300\nD)19 21 1000/1300\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 263027N1275125E\n(KUNIGAMI-GUN IN OKINAWA)\nF)GND G)722FT AGL)",
+  "upper_ft": 722,
   "upper_ref": "AGL"
  }
 }
