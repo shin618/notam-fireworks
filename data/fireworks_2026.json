@@ -736,6 +736,25 @@
   "upper_ft": 1379,
   "upper_ref": "AGL"
  },
+ "I6280/26": {
+  "areas": [
+   {
+    "lat": 43.81361111111111,
+    "lon": 142.36583333333334,
+    "radius_m": 50.0
+   }
+  ],
+  "end_utc": "2026-11-12T10:00:00+00:00",
+  "first_seen": "2026-11-09",
+  "id": "I6280/26",
+  "location": "RJCA",
+  "place": "ASAHIKAWA-SHI IN HOKKAIDO",
+  "schedule": "",
+  "start_utc": "2026-11-12T09:30:00+00:00",
+  "text": "FROM 2026/11/12 09:30 To 2026/11/12 10:00\n090012 RJAAYNYX\n(I6280/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/006/4349N14222E001\nA)RJCA B)2611120930 C)2611121000\nE)FIREWORKS:\nPLACE: RADIUS 50M CENTER 434849N1422157E\n(ASAHIKAWA-SHI IN HOKKAIDO)\nF)GND G)558FT AGL)",
+  "upper_ft": 558,
+  "upper_ref": "AGL"
+ },
  "J1927/26": {
   "areas": [
    {
