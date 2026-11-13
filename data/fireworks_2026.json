@@ -213,6 +213,25 @@
   "upper_ft": 460,
   "upper_ref": "AGL"
  },
+ "G2771/26": {
+  "areas": [
+   {
+    "lat": 34.87305555555555,
+    "lon": 136.83194444444445,
+    "radius_m": 30.0
+   }
+  ],
+  "end_utc": "2026-11-26T10:10:00+00:00",
+  "first_seen": "2026-11-14",
+  "id": "G2771/26",
+  "location": "RJGG",
+  "place": "TOKONAME-SHI IN AICHI",
+  "schedule": "",
+  "start_utc": "2026-11-26T10:00:00+00:00",
+  "text": "FROM 2026/11/26 10:00 To 2026/11/26 10:10\n130727 RJAAYNYX\n(G2771/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/004/3452N13650E001\nA)RJGG B)2611261000 C)2611261010\nE)FIREWORKS:\nPLACE: RADIUS 30M CENTER 345223N1364955E\n(TOKONAME-SHI IN AICHI)\nF)GND G)375FT AGL)",
+  "upper_ft": 375,
+  "upper_ref": "AGL"
+ },
  "H3801/26": {
   "areas": [
    {
