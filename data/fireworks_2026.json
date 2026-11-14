@@ -1420,6 +1420,25 @@
   "upper_ft": 394,
   "upper_ref": "AGL"
  },
+ "L4855/26": {
+  "areas": [
+   {
+    "lat": 33.87166666666667,
+    "lon": 132.70777777777778,
+    "radius_m": 65.0
+   }
+  ],
+  "end_utc": "2026-12-06T11:00:00+00:00",
+  "first_seen": "2026-11-15",
+  "id": "L4855/26",
+  "location": "RJOM",
+  "place": "MATSUYAMA-SHI IN EHIME",
+  "schedule": "",
+  "start_utc": "2026-12-06T10:00:00+00:00",
+  "text": "FROM 2026/12/06 10:00 To 2026/12/06 11:00\n140213 RJAAYNYX\n(L4855/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/004/3352N13242E001\nA)RJOM B)2612061000 C)2612061100\nE)FIREWORKS:\nPLACE: RADIUS 65M CENTER 335218N1324228E\n(MATSUYAMA-SHI IN EHIME)\nF)GND G)345FT AGL)",
+  "upper_ft": 345,
+  "upper_ref": "AGL"
+ },
  "M1289/26": {
   "areas": [
    {
