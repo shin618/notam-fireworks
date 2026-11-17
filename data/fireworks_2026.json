@@ -1439,6 +1439,25 @@
   "upper_ft": 345,
   "upper_ref": "AGL"
  },
+ "L4882/26": {
+  "areas": [
+   {
+    "lat": 34.12388888888889,
+    "lon": 134.61111111111111,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-11-21T09:30:00+00:00",
+  "first_seen": "2026-11-17",
+  "id": "L4882/26",
+  "location": "RJOS",
+  "place": "ITANO-GUN IN TOKUSHIMA",
+  "schedule": "",
+  "start_utc": "2026-11-21T08:45:00+00:00",
+  "text": "FROM 2026/11/21 08:45 To 2026/11/21 09:30\n170131 RJAAYNYX\n(L4882/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/006/3407N13437E001\nA)RJOS B)2611210845 C)2611210930\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 340726N1343640E\n(ITANO-GUN IN TOKUSHIMA)\nF)GND G)591FT AGL)",
+  "upper_ft": 591,
+  "upper_ref": "AGL"
+ },
  "M1289/26": {
   "areas": [
    {

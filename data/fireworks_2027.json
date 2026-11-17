@@ -1,0 +1,40 @@
+{
+ "I6441/26": {
+  "areas": [
+   {
+    "lat": 40.53944444444444,
+    "lon": 141.55805555555557,
+    "radius_m": 65.0
+   }
+  ],
+  "end_utc": "2026-12-31T15:30:00+00:00",
+  "first_seen": "2026-11-17",
+  "id": "I6441/26",
+  "location": "RJSH",
+  "place": "HACHINOHE-SHI IN AOMORI",
+  "schedule": "",
+  "start_utc": "2026-12-31T15:00:00+00:00",
+  "text": "FROM 2026/12/31 15:00 To 2026/12/31 15:30\n170209 RJAAYNYX\n(I6441/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/4032N14133E001\nA)RJSH B)2612311500 C)2612311530\nE)FIREWORKS:\nPLACE: RADIUS 65M CENTER 403222N1413329E\n(HACHINOHE-SHI IN AOMORI)\nF)GND G)722FT AGL)",
+  "upper_ft": 722,
+  "upper_ref": "AGL"
+ },
+ "I6442/26": {
+  "areas": [
+   {
+    "lat": 34.80972222222222,
+    "lon": 138.2836111111111,
+    "radius_m": 30.0
+   }
+  ],
+  "end_utc": "2026-12-31T16:30:00+00:00",
+  "first_seen": "2026-11-17",
+  "id": "I6442/26",
+  "location": "RJNY",
+  "place": "YAIZU-SHI IN SHIZUOKA",
+  "schedule": "",
+  "start_utc": "2026-12-31T15:40:00+00:00",
+  "text": "FROM 2026/12/31 15:40 To 2026/12/31 16:30\n170210 RJAAYNYX\n(I6442/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/002/3449N13817E001\nA)RJNY B)2612311540 C)2612311630\nE)FIREWORKS:\nPLACE: RADIUS 30M CENTER 344835N1381701E\n(YAIZU-SHI IN SHIZUOKA)\nF)GND G)197FT AGL)",
+  "upper_ft": 197,
+  "upper_ref": "AGL"
+ }
+}

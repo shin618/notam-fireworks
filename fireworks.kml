@@ -3,6 +3,15 @@
   <Document>
     <name>FIREWORKS NOTAM</name>
     <NetworkLink>
+      <name>2027年</name>
+      <open>0</open>
+      <Link>
+        <href>kmz/fireworks_2027.kmz</href>
+        <refreshMode>onInterval</refreshMode>
+        <refreshInterval>3600</refreshInterval>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
       <name>2026年</name>
       <open>0</open>
       <Link>
