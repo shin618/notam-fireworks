@@ -831,6 +831,25 @@
   "upper_ft": 1214,
   "upper_ref": "AGL"
  },
+ "I6488/26": {
+  "areas": [
+   {
+    "lat": 35.89833333333333,
+    "lon": 139.42638888888888,
+    "radius_m": 65.0
+   }
+  ],
+  "end_utc": "2026-11-21T10:10:00+00:00",
+  "first_seen": "2026-11-19",
+  "id": "I6488/26",
+  "location": "RJTJ",
+  "place": "KAWAGOE-SHI IN SAITAMA",
+  "schedule": "",
+  "start_utc": "2026-11-21T09:10:00+00:00",
+  "text": "FROM 2026/11/21 09:10 To 2026/11/21 10:10\n180403 RJAAYNYX\n(I6488/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/007/3554N13926E001\nA)RJTJ B)2611210910 C)2611211010\nE)FIREWORKS:\nPLACE: RADIUS 65M CENTER 355354N1392535E\n(KAWAGOE-SHI IN SAITAMA)\nF)GND G)624FT AGL)",
+  "upper_ft": 624,
+  "upper_ref": "AGL"
+ },
  "J1927/26": {
   "areas": [
    {
@@ -2753,6 +2772,25 @@
   "start_utc": "2026-11-21T09:30:00+00:00",
   "text": "FROM 2026/11/21 09:30 To 2026/11/21 12:00\n130033 RJAAYNYX\n(R1991/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/015/3448N13716E001\nA)RJJJ B)2611210930 C)2611211200\nE)FIREWORKS:\nPLACE: RADIUS 150M CENTER 344807N1371622E\n(GAMAGORI-SHI IN AICHI)\nF)GND G)1477FT AGL)",
   "upper_ft": 1477,
+  "upper_ref": "AGL"
+ },
+ "R2000/26": {
+  "areas": [
+   {
+    "lat": 40.55138888888889,
+    "lon": 141.3563888888889,
+    "radius_m": 65.0
+   }
+  ],
+  "end_utc": "2026-12-12T09:30:00+00:00",
+  "first_seen": "2026-11-19",
+  "id": "R2000/26",
+  "location": "RJJJ",
+  "place": "SANNOHE-GUN IN AOMORI",
+  "schedule": "",
+  "start_utc": "2026-12-12T08:00:00+00:00",
+  "text": "FROM 2026/12/12 08:00 To 2026/12/12 09:30\n180523 RJAAYNYX\n(R2000/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/008/4033N14121E001\nA)RJJJ B)2612120800 C)2612120930\nE)FIREWORKS:\nPLACE: RADIUS 65M CENTER 403305N1412123E\n(SANNOHE-GUN IN AOMORI)\nF)GND G)722FT AGL)",
+  "upper_ft": 722,
   "upper_ref": "AGL"
  }
 }
