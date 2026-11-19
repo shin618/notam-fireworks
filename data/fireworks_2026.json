@@ -1477,6 +1477,25 @@
   "upper_ft": 591,
   "upper_ref": "AGL"
  },
+ "L4906/26": {
+  "areas": [
+   {
+    "lat": 31.906388888888888,
+    "lon": 131.4163888888889,
+    "radius_m": 65.0
+   }
+  ],
+  "end_utc": "2026-12-06T10:30:00+00:00",
+  "first_seen": "2026-11-19",
+  "id": "L4906/26",
+  "location": "RJFM",
+  "place": "MIYAZAKI-SHI",
+  "schedule": "0900/1030",
+  "start_utc": "2026-12-05T09:00:00+00:00",
+  "text": "FROM 2026/12/05 09:00 To 2026/12/06 10:30\n190011 RJAAYNYX\n(L4906/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/3154N13125E001\nA)RJFM B)2612050900 C)2612061030\nD)0900/1030\nE)FIREWORKS:\nPLACE: RADIUS 65M CENTER 315423N1312459E\n(MIYAZAKI-SHI)\nF)GND G)739FT AGL)",
+  "upper_ft": 739,
+  "upper_ref": "AGL"
+ },
  "M1289/26": {
   "areas": [
    {
