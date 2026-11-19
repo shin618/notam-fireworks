@@ -850,6 +850,25 @@
   "upper_ft": 624,
   "upper_ref": "AGL"
  },
+ "I6523/26": {
+  "areas": [
+   {
+    "lat": 26.31861111111111,
+    "lon": 127.75055555555555,
+    "radius_m": 80.0
+   }
+  ],
+  "end_utc": "2026-12-26T11:05:00+00:00",
+  "first_seen": "2026-11-20",
+  "id": "I6523/26",
+  "location": "RODN",
+  "place": "NAKAGAMI-GUN IN OKINAWA",
+  "schedule": "05 12 19 24-26 1100/1105",
+  "start_utc": "2026-12-05T11:00:00+00:00",
+  "text": "FROM 2026/12/05 11:00 To 2026/12/26 11:05\n190851 RJAAYNYX\n(I6523/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/009/2619N12745E001\nA)RODN B)2612051100 C)2612261105\nD)05 12 19 24-26 1100/1105\nE)FIREWORKS:\nPLACE: RADIUS 80M CENTER 261907N1274502E\n(NAKAGAMI-GUN IN OKINAWA)\nF)GND G)886FT AGL)",
+  "upper_ft": 886,
+  "upper_ref": "AGL"
+ },
  "J1927/26": {
   "areas": [
    {
