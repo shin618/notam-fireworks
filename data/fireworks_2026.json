@@ -1002,6 +1002,25 @@
   "upper_ft": 1608,
   "upper_ref": "AGL"
  },
+ "J2439/26": {
+  "areas": [
+   {
+    "lat": 35.630833333333335,
+    "lon": 139.88472222222222,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-12-31T12:00:00+00:00",
+  "first_seen": "2026-11-25",
+  "id": "J2439/26",
+  "location": "RJTT",
+  "place": "URAYASU-SHI IN CHIBA",
+  "schedule": "0900/1200",
+  "start_utc": "2026-12-01T09:00:00+00:00",
+  "text": "FROM 2026/12/01 09:00 To 2026/12/31 12:00\n250129 RJAAYNYX\n(J2439/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/009/3538N13953E001\nA)RJTT B)2612010900 C)2612311200\nD)0900/1200\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 353751N1395305E\n(URAYASU-SHI IN CHIBA)\nF)GND G)821FT AGL)",
+  "upper_ft": 821,
+  "upper_ref": "AGL"
+ },
  "K2335/26": {
   "areas": [
    {
@@ -1783,6 +1802,25 @@
   "schedule": "0900/1200",
   "start_utc": "2026-11-01T09:00:00+00:00",
   "text": "FROM 2026/11/01 09:00 To 2026/11/30 12:00\n230336 RJAAYNYX\n(O2002/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/009/3538N13953E001\nA)RJTI B)2611010900 C)2611301200\nD)0900/1200\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 353751N1395305E\n(URAYASU-SHI IN CHIBA)\nF)GND G)821FT AGL)",
+  "upper_ft": 821,
+  "upper_ref": "AGL"
+ },
+ "O2137/26": {
+  "areas": [
+   {
+    "lat": 35.630833333333335,
+    "lon": 139.88472222222222,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-12-31T12:00:00+00:00",
+  "first_seen": "2026-11-25",
+  "id": "O2137/26",
+  "location": "RJTI",
+  "place": "URAYASU-SHI IN CHIBA",
+  "schedule": "0900/1200",
+  "start_utc": "2026-12-01T09:00:00+00:00",
+  "text": "FROM 2026/12/01 09:00 To 2026/12/31 12:00\n250130 RJAAYNYX\n(O2137/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/009/3538N13953E001\nA)RJTI B)2612010900 C)2612311200\nD)0900/1200\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 353751N1395305E\n(URAYASU-SHI IN CHIBA)\nF)GND G)821FT AGL)",
   "upper_ft": 821,
   "upper_ref": "AGL"
  },
