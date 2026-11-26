@@ -1553,6 +1553,25 @@
   "upper_ft": 345,
   "upper_ref": "AGL"
  },
+ "L5113/26": {
+  "areas": [
+   {
+    "lat": 34.82138888888889,
+    "lon": 138.1688888888889,
+    "radius_m": 140.0
+   }
+  ],
+  "end_utc": "2026-12-24T11:00:00+00:00",
+  "first_seen": "2026-11-27",
+  "id": "L5113/26",
+  "location": "RJNS",
+  "place": "SHIMADA-SHI IN SHIZUOKA",
+  "schedule": "",
+  "start_utc": "2026-12-24T09:00:00+00:00",
+  "text": "FROM 2026/12/24 09:00 To 2026/12/24 11:00\n260422 RJAAYNYX\n(L5113/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/015/3449N13810E001\nA)RJNS B)2612240900 C)2612241100\nE)FIREWORKS:\nPLACE: RADIUS 140M CENTER 344917N1381008E\n(SHIMADA-SHI IN SHIZUOKA)\nF)GND G)1444FT AGL)",
+  "upper_ft": 1444,
+  "upper_ref": "AGL"
+ },
  "M1289/26": {
   "areas": [
    {
@@ -2924,6 +2943,30 @@
   "start_utc": "2026-11-25T10:00:00+00:00",
   "text": "FROM 2026/11/25 10:00 To 2026/11/25 12:00\n230711 RJAAYNYX\n(R2030/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/012/3441N13356E001\nA)RJJJ B)2611251000 C)2611251200\nE)FIREWORKS:\nPLACE: RADIUS 100M CENTER 344122N1335627E\n(OKAYAMA-SHI)\nF)GND G)1149FT AGL)",
   "upper_ft": 1149,
+  "upper_ref": "AGL"
+ },
+ "R2042/26": {
+  "areas": [
+   {
+    "lat": 35.98444444444444,
+    "lon": 139.08944444444447,
+    "radius_m": 380.0
+   },
+   {
+    "lat": 35.99055555555556,
+    "lon": 139.09083333333334,
+    "radius_m": 160.0
+   }
+  ],
+  "end_utc": "2026-12-03T13:00:00+00:00",
+  "first_seen": "2026-11-27",
+  "id": "R2042/26",
+  "location": "RJJJ",
+  "place": "CHICHIBU-GUN,CHICHIBU-SHI IN SAITAMA",
+  "schedule": "",
+  "start_utc": "2026-12-03T09:30:00+00:00",
+  "text": "FROM 2026/12/03 09:30 To 2026/12/03 13:00\n260426 RJAAYNYX\n(R2042/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/W/000/017/3559N13905E002\nA)RJJJ B)2612030930 C)2612031300\nE)FIREWORKS:\n(1)PLACE: RADIUS 380M CENTER 355904N1390522E\n(2)PLACE: RADIUS 160M CENTER 355926N1390527E\n(CHICHIBU-GUN,CHICHIBU-SHI IN SAITAMA)\nF)GND G)1608FT AGL)",
+  "upper_ft": 1608,
   "upper_ref": "AGL"
  }
 }
