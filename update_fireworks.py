@@ -1,7 +1,8 @@
-"""skyinfo.jp から FIREWORKS の NOTAM を抽出し、年別の KMZ を更新する。
+"""skyinfo.jp から FIREWORKS の NOTAM を抽出し、KMZ を更新する。
 
-data/fireworks_YYYY.json に履歴を蓄積し、kmz/fireworks_YYYY.kmz（1/1〜12/31）と
-ネットワークリンク登録用の fireworks.kml を生成する。年は開始日時（JST）で振り分ける。
+data/fireworks_YYYY.json に年別で履歴を蓄積し、全年分をまとめた kmz/fireworks.kmz
+（年 → 月のフォルダ）とネットワークリンク登録用の fireworks.kml を生成する。
+年は開始日時（JST）で振り分ける。
 """
 from datetime import datetime, timedelta, timezone
 from html import escape
@@ -22,6 +23,7 @@ URL = "https://www.skyinfo.jp/"
 ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
 KMZ_DIR = ROOT / "kmz"
+KMZ_PATH = KMZ_DIR / "fireworks.kmz"
 INDEX_KML = ROOT / "fireworks.kml"
 
 JST = timezone(timedelta(hours=9))
@@ -213,9 +215,7 @@ def build_description(record):
   return "<br>".join(rows) + f"<pre>{escape(record['text'])}</pre>"
 
 
-def build_kmz(year, store):
-  kml = simplekml.Kml(name=f"FIREWORKS NOTAM {year}")
-
+def make_style():
   style = simplekml.Style()
   style.polystyle.color = "660000FF"  # 透過度40%の赤色
   style.linestyle.color = "FF0000FF"
@@ -231,62 +231,75 @@ def build_kmz(year, store):
       yunits=simplekml.Units.pixels,
   )
   style.labelstyle.scale = 0.7
+  return style
 
-  months = {}
-  for record in sorted(store.values(), key=lambda r: (r["start_utc"], r["id"])):
-    start = datetime.fromisoformat(record["start_utc"]).astimezone(JST)
-    folder = months.get(start.month)
-    if folder is None:
-      folder = months[start.month] = kml.newfolder(name=f"{start.month:02d}月")
 
-    shell = estimate_shell(record)
-    prefix = f"{shell_label(shell)} " if shell is not None else ""
-    place = folder.newmultigeometry(
-        name=f"{start:%m/%d %H:%M} {prefix}{record['place'] or record['id']}"
+def add_placemark(folder, record, style):
+  start = datetime.fromisoformat(record["start_utc"]).astimezone(JST)
+  shell = estimate_shell(record)
+  prefix = f"{shell_label(shell)} " if shell is not None else ""
+  place = folder.newmultigeometry(
+      name=f"{start:%m/%d %H:%M} {prefix}{record['place'] or record['id']}"
+  )
+  place.description = build_description(record)
+  place.style = style
+
+  altitude_m = record["upper_ft"] * FT_TO_M
+  for area in record["areas"]:
+    place.newpoint(coords=[(area["lon"], area["lat"])])
+    polygon = place.newpolygon(
+        outerboundaryis=circle_points(
+            area["lon"], area["lat"], area["radius_m"], altitude_m
+        )
     )
-    place.description = build_description(record)
-    place.style = style
+    polygon.extrude = 1
+    polygon.altitudemode = (
+        simplekml.AltitudeMode.absolute
+        if record["upper_ref"] == "AMSL"
+        else simplekml.AltitudeMode.relativetoground
+    )
 
-    altitude_m = record["upper_ft"] * FT_TO_M
-    for area in record["areas"]:
-      place.newpoint(coords=[(area["lon"], area["lat"])])
-      polygon = place.newpolygon(
-          outerboundaryis=circle_points(
-              area["lon"], area["lat"], area["radius_m"], altitude_m
-          )
-      )
-      polygon.extrude = 1
-      polygon.altitudemode = (
-          simplekml.AltitudeMode.absolute
-          if record["upper_ref"] == "AMSL"
-          else simplekml.AltitudeMode.relativetoground
-      )
+
+def build_kmz(stores):
+  """全年分を1つの KMZ にまとめる。フォルダは 年 → 月 の2階層（新しい年が上）。"""
+  kml = simplekml.Kml(name="FIREWORKS NOTAM")
+  style = make_style()
+
+  for year in sorted(stores, reverse=True):
+    store = stores[year]
+    if not store:
+      continue
+    year_folder = kml.newfolder(name=f"{year}年")
+    year_folder.open = 0
+    months = {}
+    for record in sorted(store.values(), key=lambda r: (r["start_utc"], r["id"])):
+      month = datetime.fromisoformat(record["start_utc"]).astimezone(JST).month
+      folder = months.get(month)
+      if folder is None:
+        folder = months[month] = year_folder.newfolder(name=f"{month:02d}月")
+      add_placemark(folder, record, style)
 
   KMZ_DIR.mkdir(exist_ok=True)
-  kml.savekmz(KMZ_DIR / f"fireworks_{year}.kmz")
+  kml.savekmz(KMZ_PATH)
 
 
-def build_index(years):
-  """年別 KMZ をまとめる親 KML。年が増えても登録し直さずに済むようにする。"""
-  links = "".join(
-      f"""    <NetworkLink>
-      <name>{year}年</name>
-      <open>0</open>
-      <Link>
-        <href>kmz/fireworks_{year}.kmz</href>
-        <refreshMode>onInterval</refreshMode>
-        <refreshInterval>{REFRESH_SECONDS}</refreshInterval>
-      </Link>
-    </NetworkLink>
-"""
-      for year in sorted(years, reverse=True)
-  )
+def build_index():
+  """ネットワークリンク登録用の親 KML。KMZ 本体を定期的に読み直させる。"""
   INDEX_KML.write_text(
       f"""<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>FIREWORKS NOTAM</name>
-{links}  </Document>
+    <NetworkLink>
+      <name>FIREWORKS NOTAM</name>
+      <open>1</open>
+      <Link>
+        <href>kmz/fireworks.kmz</href>
+        <refreshMode>onInterval</refreshMode>
+        <refreshInterval>{REFRESH_SECONDS}</refreshInterval>
+      </Link>
+    </NetworkLink>
+  </Document>
 </kml>
 """,
       encoding="utf-8",
@@ -297,10 +310,12 @@ def build_index(years):
 def write_outputs(stores, changed):
   for year in sorted(changed):
     save_store(stores, year)
-  for year, store in stores.items():
-    if year in changed or not (KMZ_DIR / f"fireworks_{year}.kmz").exists():
-      build_kmz(year, store)
-  build_index(stores)
+  if changed or not KMZ_PATH.exists():
+    build_kmz(stores)
+  # 旧形式の年別 KMZ を片付ける
+  for old in KMZ_DIR.glob("fireworks_*.kmz"):
+    old.unlink()
+  build_index()
 
 
 def main():
