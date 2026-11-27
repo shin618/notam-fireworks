@@ -37,6 +37,44 @@
   "upper_ft": 197,
   "upper_ref": "AGL"
  },
+ "N4491/26": {
+  "areas": [
+   {
+    "lat": 24.738777777777777,
+    "lon": 125.25866666666667,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-12-31T15:10:00+00:00",
+  "first_seen": "2026-11-28",
+  "id": "N4491/26",
+  "location": "ROMY",
+  "place": "MIYAKOJIMA-SHI IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-12-31T15:00:00+00:00",
+  "text": "FROM 2026/12/31 15:00 To 2026/12/31 15:10\n270934 RJAAYNYX\n(N4491/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/2444N12516E001\nA)ROMY B)2612311500 C)2612311510\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 244419.6N1251531.2E\n(MIYAKOJIMA-SHI IN OKINAWA)\nF)GND G)755FT AGL)",
+  "upper_ft": 755,
+  "upper_ref": "AGL"
+ },
+ "N4492/26": {
+  "areas": [
+   {
+    "lat": 24.7985,
+    "lon": 125.25611111111111,
+    "radius_m": 60.0
+   }
+  ],
+  "end_utc": "2026-12-31T15:10:00+00:00",
+  "first_seen": "2026-11-28",
+  "id": "N4492/26",
+  "location": "ROMY",
+  "place": "MIYAKOJIMA-SHI IN OKINAWA",
+  "schedule": "",
+  "start_utc": "2026-12-31T15:00:00+00:00",
+  "text": "FROM 2026/12/31 15:00 To 2026/12/31 15:10\n271032 RJAAYNYX\n(N4492/26 NOTAMN\nQ)RJJJ/QWHLW/IV/M/AW/000/008/2448N12515E001\nA)ROMY B)2612311500 C)2612311510\nE)FIREWORKS:\nPLACE: RADIUS 60M CENTER 244754.6N1251522.0E\n(MIYAKOJIMA-SHI IN OKINAWA)\nF)GND G)755FT AGL)",
+  "upper_ft": 755,
+  "upper_ref": "AGL"
+ },
  "R2023/26": {
   "areas": [
    {
