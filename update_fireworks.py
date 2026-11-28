@@ -261,11 +261,11 @@ def add_placemark(folder, record, style):
 
 
 def build_kmz(stores):
-  """全年分を1つの KMZ にまとめる。フォルダは 年 → 月 の2階層（新しい年が上）。"""
+  """全年分を1つの KMZ にまとめる。フォルダは 年 → 月 の2階層（古い年が上）。"""
   kml = simplekml.Kml(name="FIREWORKS NOTAM")
   style = make_style()
 
-  for year in sorted(stores, reverse=True):
+  for year in sorted(stores):
     store = stores[year]
     if not store:
       continue
